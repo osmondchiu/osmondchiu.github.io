@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-excerpt: "A list of recent publications"
+title: Publications + Events
+excerpt: "A list of recent publications and previous events"
 ---
 
 
@@ -20,4 +20,9 @@ excerpt: "A list of recent publications"
 <p>Guardian Australia (17 July 2018). <i>CEOs don't understand how angry workers feel about executive pay</i>
 <p>Eureka Street (25 May 2018). <i>Robots are not the real threat to work</i>
 <p>Sydney Morning Herald (26 April 2018). <i>We need different faces in Parliament</i>
-
+<p>
+<h2>Previous Events</h2>
+<p>Committee for the Economic Development of Australia [South Australia] (6 May 2019) <i>Artificial intelligence and ethics: the future of work</i>
+<p>GetUp! (17 November 2018). <i>Future To Fight For</i>
+<p>Australian Human Rights Commission (12 June 2018). <i>National Forum on Racial Tolerance and Community Harmony.</i>
+<p>Sydney Ideas (27 November 2017). <i>Digital Rights: what are they, and why do we need them?</i>
