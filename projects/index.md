@@ -5,8 +5,8 @@ excerpt: "A list of recent publications"
 ---
 
 
-     <h2>Recent publications</h2>
-    <p>Tocsin (October 2019). <i>Left Out?</i>
+<h2>Recent publications</h2>
+<p>Tocsin (October 2019). <i>Left Out?</i>
 <p>Peril Magazine (21 August 2019). <i>Agitators and organisers: untold histories of Chinese migrant workers in Australia</i>
 <p>Guardian Australia (24 July 2019). <i>The imperative for progressives? Bold action on inequality, democracy and climate</i>
 <p>Policy Network (23 May 2019). <i>Australian Labor’s shock defeat</i>
