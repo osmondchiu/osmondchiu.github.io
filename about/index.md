@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme, JBlog]
 date: 2016-03-21
 ---
 
-## About me
+## Bio
 
 Osmond Chiu is Sydney-based Research Fellow at the Per Capita thinktank. He has a decade of experience in policy roles in both the public sector and trade union movement.
 
