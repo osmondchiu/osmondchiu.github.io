@@ -1,8 +1,8 @@
 # Site
 title:          Osmond Chiu
 bio:            'Just a simple Jekyll theme'
-description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
-picture:        'assets/img/profile.png'
+description:    
+picture:        'assets/img/profile.jpg'
 locale:         en_US
 url:            https://osmondchiu.github.io
 
