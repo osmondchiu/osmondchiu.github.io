@@ -1,14 +1,10 @@
 ---
 layout: page
-title: Publications and events
-excerpt: "A list of recent publications and previous events"
+title: Publications
+excerpt: "A list of recent publications"
 ---
 
-<h2>Previous Events</h2>
-<p>Committee for the Economic Development of Australia [South Australia] (6 May 2019) <i>Artificial intelligence and ethics: the future of work</i>
-<p>GetUp! (17 November 2018). <i>Future To Fight For</i>
-<p>Australian Human Rights Commission (12 June 2018). <i>National Forum on Racial Tolerance and Community Harmony.</i>
-<p>Sydney Ideas (27 November 2017). <i>Digital Rights: what are they, and why do we need them?</i>
+
      <h2>Recent publications</h2>
     <p>Tocsin (October 2019). <i>Left Out?</i>
 <p>Peril Magazine (21 August 2019). <i>Agitators and organisers: untold histories of Chinese migrant workers in Australia</i>
