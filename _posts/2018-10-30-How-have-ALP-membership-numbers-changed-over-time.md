@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How have ALP rank-and-file membership numbers changed over time?"
+title: "How have ALP membership numbers changed over time?"
 date: 2018-10-30
 excerpt: "Osmond Chiu on changing ALP membership numbers."
 tags: [australian politics, australian labor party, trade unions, democracy,]
