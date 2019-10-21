@@ -5,7 +5,7 @@ excerpt: "A list of recent publications and previous events"
 ---
 
 
-<h2>Recent publications</h2>
+<h2>Publications</h2>
 <p>Tocsin (October 2019). <i>Left Out?</i>
 <p>Peril Magazine (21 August 2019). <i>Agitators and organisers: untold histories of Chinese migrant workers in Australia</i>
 <p>Guardian Australia (24 July 2019). <i>The imperative for progressives? Bold action on inequality, democracy and climate</i>
@@ -20,7 +20,15 @@ excerpt: "A list of recent publications and previous events"
 <p>Guardian Australia (17 July 2018). <i>CEOs don't understand how angry workers feel about executive pay</i>
 <p>Eureka Street (25 May 2018). <i>Robots are not the real threat to work</i>
 <p>Sydney Morning Herald (26 April 2018). <i>We need different faces in Parliament</i>
-<p>
+<p>Eureka Street (10 November 2017). <i>It's time to revisit free education</i>
+<p>Eureka Street (16 September 2017). <i>Battling the Pauline Hanson battler myth</i>
+<p>Whitlam Institute (13 July 2017) 'The Impact of Economic Rationalism on the Australian Public Service: from 1991 to the present', in <i>Economic Rationalism in Canberra: Twenty-Five Years On</i>
+<p>Australian Journal of Public Administration (13 May 2017). <i>A Portrait of Failure: Ongoing Funding Cuts to Australia's Cultural Institutions</i>, Vol 77(1), co-authored with Kristin van Barneveld
+<p>Junkee (20 March 2017). <i>The Real Story Behind Harmony Day: How John Howard Depoliticised Anti-Racism</i>
+<p>Eureka Street (18 March 2016). <i>A new year, a new Bill?</i>
+<p>New Matilda (16 June 2015). <i>Those Decrying Chinese Homebuyers Fight Only For Their Own Privilege</i>
+<p>New Matilda (14 March 2014). <i>Are Primaries Really The Answer To Labor's Woes?</i>
+<p>New Matilda (6 November 2013). <i>Unions NSW Are Right To Challenge O'Farrell</i>
 <p>
 <h2>Previous Events</h2>
 <p>Committee for the Economic Development of Australia [South Australia] (6 May 2019) <i>Artificial intelligence and ethics: the future of work</i>
