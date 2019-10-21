@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Peter Dutton throws a "dead cat""
+title: "Peter Dutton throws a 'dead cat'"
 date: 2016-05-18
 excerpt: "Osmond Chiu argues we need to ignore Peter Dutton"
-tags: [australian politics, 2016 election, racism, asylum seekers,]
+tags: [australian politics, 2016 election, racism, asylum seekers]
 ---
 
 This morning I awoke to furore about <a href="http://www.sbs.com.au/news/article/2016/05/18/dutton-slammed-over-illiterate-and-innumerate-refugees-comments">comments that Immigration Minister Peter Dutton made on Sky News last night.</a> He claimed that if Australia’s refugee intake was dramatically increased (as proposed by Labor and the Greens), “illiterate” refugees would come to Australia, take jobs and drive up unemployment.
