@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The debate on the socialist objective shows how stale thinking within the ALP is"
+title: "Debating the socialist objective shows how stale thinking within Labor is"
 date: 2015-07-08
 excerpt: "Osmond Chiu argues that we should not debate the socialist objective."
 tags: [australian politics, socialism, labor left, labor right, australian labor party,]
