@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Australia won't have a Corbyn or Sanders but there will be an anti-system response"
+title: "We won't have a Corbyn or Sanders but there will be an anti-system response"
 date: 2016-03-10
 excerpt: "Osmond Chiu argues asking where is our Corbyn or Sanders is the wrong question."
 tags: [australian politics, populism, inequality, democracy, anti-politics, socialism]
