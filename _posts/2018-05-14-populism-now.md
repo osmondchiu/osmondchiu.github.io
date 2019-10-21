@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Book Review: Populism Now!"
-date: 2018-04-14
+date: 2018-05-14
 excerpt: "Osmond Chiu reviews Populism Now! by David McKnight."
 tags: [australian politics, populism, neoliberalism, climate change, racism]
 ---
