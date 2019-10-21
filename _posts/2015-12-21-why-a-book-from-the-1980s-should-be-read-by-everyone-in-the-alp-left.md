@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Why a book from the 1980s should be read by everyone in the ALP Left
-"
+title: "Everyone in the ALP Left should read this book"
 date: 2015-12-21
 excerpt: "Osmond Chiu argues that the fall of the British Labor Left offers lessons."
 tags: [australian politics, australian labor party, uk labour, labor left, socialism,]
