@@ -1,7 +1,7 @@
 # Site
 title:          Osmond Chiu
 bio:            'Progressive policy and advocacy'
-#description:    " "
+description:    "Progressive policy and advocacy"
 picture:        'assets/img/profile.jpg'
 locale:         en_US
 url:            https://osmondchiu.github.io
