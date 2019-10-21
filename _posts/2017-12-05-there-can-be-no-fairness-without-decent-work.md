@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "There can be no fairness without decent work"
-date: 2019-12-05
+date: 2017-12-05
 excerpt: "Osmond Chiu on the importance of decent work."
 tags: [future of work, decent work, full employment, inequality, universal basic income,]
 ---
