@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting a Parliament that reflects Australia's cultural diversity"
+title: "A Parliament that reflects our diversity"
 date: 2019-05-01
 excerpt: "Osmond Chiu argues that our institutions underrepresents people of colour."
 tags: [australian politics, 2019 election, multiculturalism, racism,]
