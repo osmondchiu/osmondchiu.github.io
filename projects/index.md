@@ -6,6 +6,7 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
+<p>Overland (22 October 2019). <i>Old racism in a new language: the state of Sinophobia in Australia</i>
 <p>Tocsin (October 2019). <i>Left Out?</i>
 <p>Peril Magazine (21 August 2019). <i>Agitators and organisers: untold histories of Chinese migrant workers in Australia</i>
 <p>Guardian Australia (24 July 2019). <i>The imperative for progressives? Bold action on inequality, democracy and climate</i>
