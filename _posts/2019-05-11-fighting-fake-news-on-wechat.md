@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The fight against fake news on WeChat"
+title: "Fighting fake news on WeChat"
 date: 2019-05-11
 excerpt: "Osmond Chiu explains the disinformation campaigning occurring on WeChat."
 tags: [wechat, australian politics, 2019 election, ccp influence, fake news]
