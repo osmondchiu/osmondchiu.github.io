@@ -30,13 +30,15 @@ excerpt: "A list of recent publications and previous events"
 <p>New Matilda (16 June 2015). <i>Those Decrying Chinese Homebuyers Fight Only For Their Own Privilege</i>
 <p>New Matilda (14 March 2014). <i>Are Primaries Really The Answer To Labor's Woes?</i>
 <p>New Matilda (6 November 2013). <i>Unions NSW Are Right To Challenge O'Farrell</i>
+<p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 <p>
 <h2>Media and Interviews</h2>
 <p>Triple R - 102.7FM (23 October 2019). <i>The Rap</i>
+<p>Claire Capel-Stanley (19 June 2019). <i>Clock ticking, climate policy awaits a reboot. Green New Deal, or pipe dream?</i>, The Citizen
 <p>Tally Room (24 March 2019). <i>Podcast #21 – NSW election results</i>
 <p>Tally Room (9 August 2018). <i>Podcast #5 – Voter representation choices and Gilmore</i>
-<p>RN Drive (30 April 2018). <i>Does Australian parliament need a diversity quota? ABC Radio National</i>
-<p>RN (6 November 2017). <i>100 years after the Russian Revolution, what do millennials see in socialism?</i>
+<p>RN Drive (30 April 2018). <i>Does Australian parliament need a diversity quota?</i> ABC Radio National
+<p>Rosanna Ryan and Alex McClintock (6 November 2017). <i>100 years after the Russian Revolution, what do millennials see in socialism?</i> RN
 <p>
 <h2>Previous Events</h2>
 <p>Committee for the Economic Development of Australia [South Australia] (6 May 2019) <i>Artificial intelligence and ethics: the future of work</i>
