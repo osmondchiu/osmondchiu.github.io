@@ -41,7 +41,9 @@ excerpt: "A list of recent publications and previous events"
 <p>Rosanna Ryan and Alex McClintock (6 November 2017). <i>100 years after the Russian Revolution, what do millennials see in socialism?</i> RN
 <p>
 <h2>Previous Events</h2>
-<a>16th Biennial Conference of the Australian Society for the Study of Labour History (4 October 2019). <i>“Show and Tell”: A short
+<p>Chifley Research Centre (8 December 2019). 'Inclusive Patriotism', <i>Towards 2022: Ideas for Labor and Australia</i>
+<p>Sydney Young Labor (20 October 2019). <i>Green New Deal Panel: Climate Struggle and the Labour Movement</i>
+<p>16th Biennial Conference of the Australian Society for the Study of Labour History (4 October 2019). <i>“Show and Tell”: A short
   history of the ACT Left Caucus</i>
 <p>Committee for the Economic Development of Australia [South Australia] (6 May 2019) <i>Artificial intelligence and ethics: the future of work</i>
 <p>GetUp! (17 November 2018). <i>Future To Fight For</i>
