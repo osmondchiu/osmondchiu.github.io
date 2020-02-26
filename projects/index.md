@@ -35,6 +35,8 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 <p>
 <h2>Media and Interviews</h2>
+<p>7am (27 February 2019). <i>How coronavirus feeds Australian racism</i>
+<p>ABC Radio Sydney (27 February 2019). <i>Breakfast with Wendy Harmer and Robbie Buck</i>
 <p>3AW (26 February 2019). <i>Drive with Tom Elliot</i>
 <p>Katie Burgess (26 February 2019). <i>Australia's 'too white' politics can't deal with foreign interference</i>, Canberra Times
 <p>ABC News 24 (25 February 2019).  <i>ABC News Afternoons<i>
