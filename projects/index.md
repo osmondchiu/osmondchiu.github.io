@@ -6,6 +6,7 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
+<p>South China Morning Post (2 March 2020). <i>Australia’s watershed political moment: welcoming Asian-Australians to the table</i>
 <p>China Matters (January-February 2020). <i>What should Australia do about its politics being too white?</i>
 <p>Canberra Times (3 December 2019). <i>Community wealth building offers a way forward for progressives</i>
 <p>Overland (22 October 2019). <i>Old racism in a new language: the state of Sinophobia in Australia</i>
@@ -39,7 +40,7 @@ excerpt: "A list of recent publications and previous events"
 <p>ABC Radio Sydney (27 February 2019). <i>Breakfast with Wendy Harmer and Robbie Buck</i>
 <p>3AW (26 February 2019). <i>Drive with Tom Elliot</i>
 <p>Katie Burgess (26 February 2019). <i>Australia's 'too white' politics can't deal with foreign interference</i>, Canberra Times
-<p>ABC News 24 (25 February 2019).  <i>ABC News Afternoons<i>
+<p>ABC News 24 (25 February 2019).  <i>ABC News Afternoons</i>
 <p>Nick Bonyhady (25 February 2019). <i>Report calls for preselection targets to elect more culturally diverse MPs</i>, Sydney Morning Herald
 <p>Maani Truu (25 February 2019). <i>Calls for Australian political parties to introduce a 20 per cent target for non-white candidates</i>, SBS News
 <p>Triple R - 102.7FM (23 October 2019). <i>The Rap</i>
