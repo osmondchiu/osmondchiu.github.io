@@ -6,6 +6,7 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
+<p>China Neican (3 April 2020). <i>COVID-19 racism echoes historical anti-Chinese sentiment</i>
 <p>South China Morning Post (2 March 2020). <i>Australia’s watershed political moment: welcoming Asian-Australians to the table</i>
 <p>China Matters (January-February 2020). <i>What should Australia do about its politics being too white?</i>
 <p>Canberra Times (3 December 2019). <i>Community wealth building offers a way forward for progressives</i>
