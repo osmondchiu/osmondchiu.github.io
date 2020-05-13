@@ -9,4 +9,4 @@ date: 2016-03-21
 
 Osmond Chiu is a Sydney-based Research Fellow at the Per Capita thinktank. He has a decade of experience in policy roles in both the public sector and trade union movement.
 
-Osmond is a former Secretary of the NSW Fabians and editor of Challenge Magazine. He has spoken and written about a range of topics including the Australian politics, social democracy, public services, the future of work, digital rights, the Chinese diaspora and multiculturalism. His writing has appeared in local and international publications including the Sydney Morning Herald, Guardian Australia, Crikey, Jacobin, Tribune and Meanjin.
+Osmond is a former Secretary of the NSW Fabians and editor of Challenge Magazine. He has spoken and written about a range of topics including the Australian politics, social democracy, public services, the future of work, digital rights, the Chinese diaspora and multiculturalism. His writing has appeared in local and international publications including the Sydney Morning Herald, Guardian Australia, Canberra Times, Crikey, Jacobin, Tribune, Eureka Street, Junkee and Meanjin.
