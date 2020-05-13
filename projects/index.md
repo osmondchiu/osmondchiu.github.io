@@ -37,6 +37,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 <p>
 <h2>Media and Interviews</h2>
+<p>Ben Schneiders and Clay Lucas (13 May 2020). <i>Asian-Australian groups report surge in racist abuse, assaults during pandemic</i>, The Age
 <p>FBI Radio (9 May 2020). <i>BackChat</i>
 <p>ABC Radio National (7 March 2020). <i>Saturday Extra</i>
 <p>7am (27 February 2020). <i>How coronavirus feeds Australian racism</i>
