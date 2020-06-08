@@ -37,6 +37,8 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 <p>
 <h2>Media and Interviews</h2>
+<p>SBS (8 June 2020). <i>SBS World News</i>
+<p>Max Koslowski (7 June 2020). <i>Almost 400 anti-China attacks since pandemic began</i>. Sydney Morning Herald
 <p>Naaman Zhou (1 June 2020). <i>Anti-Asian racism surges in NSW</i>. Guardian Australia
 <p>Jodie Stephens and Ashlea Witoslawski (27 May 2020). <i>COVID-19 racism prompts NSW campaign</i>. Australian Associated Press
 <p>Postponed Not Silenced (24 May 2020). <i>COVID-19 Racism</i>
