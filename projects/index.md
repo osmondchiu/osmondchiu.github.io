@@ -37,6 +37,8 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 <p>
 <h2>Media and Interviews</h2>
+<p>SBS Radio (11 June 2020).
+<p>Max Koslowski (11 June 2020) 'A wake-up call and opportunity': Call for a national anti-racism strategy as complaints grow</i>. Sydney Morning Herald 
 <p>SBS (8 June 2020). <i>SBS World News</i>
 <p>Max Koslowski (7 June 2020). <i>Almost 400 anti-China attacks since pandemic began</i>. Sydney Morning Herald
 <p>Naaman Zhou (1 June 2020). <i>Anti-Asian racism surges in NSW</i>. Guardian Australia
@@ -61,6 +63,8 @@ excerpt: "A list of recent publications and previous events"
 <p>Rosanna Ryan and Alex McClintock (6 November 2017). <i>100 years after the Russian Revolution, what do millennials see in socialism?</i> RN
 <p>
 <h2>Previous Events</h2>
+<p> The Economic and Labour Relations Review (12 June 2020), Green New Deals? The role of and limitations on the
+Commonwealth Government in an Australian Green New Deal, <i>Green New Deal Special Issue – Digital Workshop</i>
 <p>Australian Communities Foundation (27 March 2020), <i>Tackling Inequality Learning Circle - China: Power, Human Rights and Racism in Australia</i>
 <p>NSW Fabians (13 February 2020), <i>A Green New Deal for Australia?</i>
 <p>Australia-China Relations Institute, University of Technology Sydney (4 February 2020), <i>Australia China Relations: The State of Play</i>
