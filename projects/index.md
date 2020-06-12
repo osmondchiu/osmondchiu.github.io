@@ -37,6 +37,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 <p>
 <h2>Media and Interviews</h2>
+<p>ABC Radio National (14 June 2020). <i>Why Australia's spies think the far right could find a foothold during coronavirus</i>. Background Briefing
 <p>SBS Radio (11 June 2020).
 <p>Max Koslowski (11 June 2020) 'A wake-up call and opportunity': Call for a national anti-racism strategy as complaints grow</i>. Sydney Morning Herald 
 <p>SBS (8 June 2020). <i>SBS World News</i>
