@@ -21,6 +21,7 @@ excerpt: "A list of recent publications and previous events"
 <p>Eureka Street (11 February 2019). <i>Australia needs its own Green New Deal</i>
 <p>Eureka Street (5 December 2018). <i>Kerryn Phelps' middle-class populism</i>
 <p>Jacobin Magazine (5 November 2018). <i>The Third Way Isn’t Dead Yet</i>
+<p>SBS Voices (27 August 2018). <i>Returning to Chinese school as an adult</i>
 <p>Eureka Street (13 August 2018). <i>Free expression is a workplace issue too</i>
 <p>Guardian Australia (17 July 2018). <i>CEOs don't understand how angry workers feel about executive pay</i>
 <p>Eureka Street (25 May 2018). <i>Robots are not the real threat to work</i>
@@ -40,7 +41,7 @@ excerpt: "A list of recent publications and previous events"
 <p>Cassandra Power (17 June 2020). <i>China’s warnings of racism rejected as ‘disinformation’</i>. Canberra Weekly
 <p>ABC Radio National (14 June 2020). <i>Why Australia's spies think the far right could find a foothold during coronavirus</i>. Background Briefing
 <p>Su-Lin Tan (13 June 2020). <i>China, Australia and the US are using racism as a political football</i>. South China Morning Post
-<p>SBS Radio (11 June 2020).
+<p>SBS (11 June 2020). <i>SBS Radio</i>
 <p>Max Koslowski (11 June 2020) <i>'A wake-up call and opportunity': Call for a national anti-racism strategy as complaints grow</i>. Sydney Morning Herald 
 <p>Tom Stayner (10 June 2020). <i>A broad coalition of community groups is backing calls for a new anti-racism strategy</i> SBS News
 <p>SBS (8 June 2020). <i>SBS World News</i>
