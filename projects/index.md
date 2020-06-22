@@ -41,7 +41,7 @@ excerpt: "A list of recent publications and previous events"
 <p>ABC Radio National (14 June 2020). <i>Why Australia's spies think the far right could find a foothold during coronavirus</i>. Background Briefing
 <p>Su-Lin Tan (13 June 2020). <i>China, Australia and the US are using racism as a political football</i>. South China Morning Post
 <p>SBS Radio (11 June 2020).
-<p>Max Koslowski (11 June 2020) 'A wake-up call and opportunity': Call for a national anti-racism strategy as complaints grow</i>. Sydney Morning Herald 
+<p>Max Koslowski (11 June 2020) <i>'A wake-up call and opportunity': Call for a national anti-racism strategy as complaints grow</i>. Sydney Morning Herald 
 <p>Tom Stayner (10 June 2020). <i>A broad coalition of community groups is backing calls for a new anti-racism strategy</i> SBS News
 <p>SBS (8 June 2020). <i>SBS World News</i>
 <p>Max Koslowski (7 June 2020). <i>Almost 400 anti-China attacks since pandemic began</i>. Sydney Morning Herald
