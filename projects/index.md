@@ -38,6 +38,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 <p>
 <h2>Media and Interviews</h2>
+<p>Kirsten Lawson (22 June 2020). <i>WeChat the channel for China disinformation campaigns</i>. Canberra Times
 <p>Cassandra Power (17 June 2020). <i>China’s warnings of racism rejected as ‘disinformation’</i>. Canberra Weekly
 <p>ABC Radio National (14 June 2020). <i>Why Australia's spies think the far right could find a foothold during coronavirus</i>. Background Briefing
 <p>Su-Lin Tan (13 June 2020). <i>China, Australia and the US are using racism as a political football</i>. South China Morning Post
