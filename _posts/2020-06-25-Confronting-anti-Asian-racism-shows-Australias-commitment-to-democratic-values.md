@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Confronting anti-Asian racism shows Australia’s commitment to democratic values."
+title:  "Confronting anti-Asian racism shows Australia’s commitment to democratic values"
 date:   2020-06-25
-excerpt: "Osmond Chiu on how confronting anti-Asian racism shows Australia’s commitment to democratic values.."
+excerpt: "Osmond Chiu on how confronting anti-Asian racism shows Australia’s commitment to democratic values."
 tag:
 - china
 - equality
