@@ -43,4 +43,4 @@ Acknowledging the increase in anti-Asian and anti-Chinese racism in Australia do
 Instead of seeing the acknowledgement of growing anti-Asian racism as admission of Australia’s permanent moral failing, we need to understand that our ability to address it shows the fundamental strength of Australia’s democracy. Only by being strongly anti-racist can we confidently demonstrate our commitment to values such as multiculturalism and equality and push back when racism is used as a geopolitical wedge.
 
 
-<em>Published on the 'Pearls and Irritations' website</em>
+<em>Published at <a href="https://johnmenadue.com/increase-in-anti-asian-racism-by-osmond-chiu/">Pearls and Irritations</a></em>
