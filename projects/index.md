@@ -6,6 +6,7 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
+<p>Pearls & Irritations (25 June 2020). <i>Confronting anti-Asian racism shows Australia’s commitment to democratic values</i>
 <p>The China Story (15 April 2020). <i>COVID-19 racism echoes historical anti-Chinese sentiment</i>
 <p>South China Morning Post (2 March 2020). <i>Australia’s watershed political moment: welcoming Asian-Australians to the table</i>
 <p>China Matters (January-February 2020). <i>What should Australia do about its politics being too white?</i>
@@ -38,6 +39,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 <p>
 <h2>Media and Interviews</h2>
+<p>Joanna McCarthy and Erin Handley (28 June 2020). <i>We asked about racist incidents since COVID-19 started. You offered solutions to the problem</i>. ABC News
 <p>Leon Delaney (23 June 2020). <i>The Leon Delaney Drive Show</i>. 2CC
 <p>Kirsten Lawson (22 June 2020). <i>WeChat the channel for China disinformation campaigns</i>. Canberra Times
 <p>Cassandra Power (17 June 2020). <i>China’s warnings of racism rejected as ‘disinformation’</i>. Canberra Weekly
