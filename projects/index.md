@@ -39,6 +39,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 <p>
 <h2>Media and Interviews</h2>
+<p>Su-Lin Tan (7 July 2020). <i>Chinese-Australians hunt white men who hit Asian delivery rider</i>. South China Morning Post
 <p>Ben Packham and David Swan (29 June 2020). <i>Fighting Fake News</i>. The Australian
 <p>Joanna McCarthy and Erin Handley (28 June 2020). <i>We asked about racist incidents since COVID-19 started. You offered solutions to the problem</i>. ABC News
 <p>Leon Delaney (23 June 2020). <i>The Leon Delaney Drive Show</i>. 2CC
