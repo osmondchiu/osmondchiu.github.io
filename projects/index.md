@@ -39,6 +39,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 <p>
 <h2>Media and Interviews</h2>
+<p>Jason Om (24 July 2020). <i>Report reveals racist abuse experienced by Asian Australians during coronavirus pandemic</i>. ABC News
 <p>ABC TV (23 July 2020). <i>Australian Chinese facing growing racism due to COVID-19 pandemic</i>. 7.30 
 <p>Su-Lin Tan (7 July 2020). <i>Chinese-Australians hunt white men who hit Asian delivery rider</i>. South China Morning Post
 <p>Ben Packham and David Swan (29 June 2020). <i>Fighting Fake News</i>. The Australian
