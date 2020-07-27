@@ -6,6 +6,7 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
+<p>Jacobin Magazine (28 July 2020). <i>Locking Out the Left: The Emergence of National Factions in Australian Labor</i>
 <p>Canberra Times (27 July 2020). <i>One of the biggest open secrets in Australian public policy</i>
 <p>Pearls & Irritations (25 June 2020). <i>Confronting anti-Asian racism shows Australia’s commitment to democratic values</i>
 <p>The China Story (15 April 2020). <i>COVID-19 racism echoes historical anti-Chinese sentiment</i>
