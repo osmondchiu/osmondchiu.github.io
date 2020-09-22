@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Jeremy Corbyn can inspire us but he was an accident, we can’t duplicate what happened in Labor?"
+title: "Jeremy Corbyn can inspire us but he was an accident"
 date: 2018-02-01
 excerpt: "Osmond Chiu on the limits of what we can learn from UK Labour."
 tags: [australian politics, australian labor party, labor left, socialism, democracy, neoliberalism, british labour, jeremy corbyn]
 ---
+
 
 <p>Last week the debate about Labor Party reform in the lead-up to ALP National Conference really kicked off after ALP National President (and Shadow Minister) <a href="https://markbutler.net.au/news/speeches/grasping-the-nettle-on-democratisation-of-the-alp/">Mark Butler gave a speech to the Victorian Fabians on party democracy</a>. Butler highlighted the lack of Labor Party democracy compared to sister parties and also pointed to the British example of Labour growing significantly after party reform, urging those with power within Labor not to fear it.</p>
 <p>Unsurprisingly it resulted in a number of responses. One of the better responses was in the <em>Guardian Australia</em> which published an <a href="https://www.theguardian.com/commentisfree/2018/jan/24/its-not-party-structure-preventing-people-joining-labor-its-ideas">op-ed by academic Liam Byrne</a> commenting on Butler's speech. Byrne argued that it is not party reform that will encourage people to join Labor but rather ideas that make people think it is worth participating within Labor.</p>
