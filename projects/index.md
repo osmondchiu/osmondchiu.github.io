@@ -6,6 +6,7 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
+<p>Emma Dawson and Janet McCalman (29 September 2020) 'Rebuilding the Public Sector', in <i>What Happens Next? Reconstructing Australia after COVID-19</i>
 <p>The China Story (10 August 2020). <i>COVID-19 has led to widespread incidents of anti-Asian racism in Australia</i>
 <p>Jacobin Magazine (28 July 2020). <i>Locking Out the Left: The Emergence of National Factions in Australian Labor</i>
 <p>Canberra Times (27 July 2020). <i>One of the biggest open secrets in Australian public policy</i>
@@ -81,7 +82,7 @@ excerpt: "A list of recent publications and previous events"
 <p>Rosanna Ryan and Alex McClintock (6 November 2017). <i>100 years after the Russian Revolution, what do millennials see in socialism?</i> RN
 <p>
 <h2>Previous Events</h2>
-<p> Deakin Human Rights and Refugees Society (14 August 2020), <i>Racism in Modern Australia</i>
+<p>Deakin Human Rights and Refugees Society (14 August 2020), <i>Racism in Modern Australia</i>
 <p>The Economic and Labour Relations Review (12 June 2020), <i>Green New Deals? The role of and limitations on the Commonwealth Government in an Australian Green New Deal</i>, Green New Deal Special Issue – Digital Workshop
 <p>Australian Communities Foundation (27 March 2020), <i>Tackling Inequality Learning Circle - China: Power, Human Rights and Racism in Australia</i>
 <p>NSW Fabians (13 February 2020), <i>A Green New Deal for Australia?</i>
