@@ -46,7 +46,7 @@ excerpt: "A list of recent publications and previous events"
 <p>
 <h2>Media and Interviews</h2>
 <p>SBS (22 October 2020). <i>SBS World News</i>
-<p>ABC (30 April 2018). <i>AM</i>. ABC Radio National
+<p>ABC (22 October 2020). <i>AM</i>. ABC Radio National
 <p>Bang Xiao and Stephen Dziedzic (22 October 2020). <i>Senator Eric Abetz's controversial questions about loyalty rattle Chinese communities in Australia</i>. ABC News Online
 <p>Osman Faruqi and Madeline Hayman-Reber (19 October 2020). <i>Read the Room</i>. Triple R
 <p>Adam Holmes (18 October 2020). <i>Senator Eric Abetz accused of 'racist' questioning of Chinese Australians during Senate inquiry</i>. The Advocate
