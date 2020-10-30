@@ -45,6 +45,8 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 <p>
 <h2>Media and Interviews</h2>
+<p>Tom Ballard (30 October 2020). <i>Like I'm A Six Year Old</i>
+<p>John Power (29 October 2020). <i>Canberra’s top foreign affairs bureaucrat accuses China of seeking to stoke ethnic divisions in Australia</i>. South China Morning Post
 <p>SBS (22 October 2020). <i>SBS World News</i>
 <p>ABC (22 October 2020). <i>AM</i>. ABC Radio National
 <p>Bang Xiao and Stephen Dziedzic (22 October 2020). <i>Senator Eric Abetz's controversial questions about loyalty rattle Chinese communities in Australia</i>. ABC News Online
