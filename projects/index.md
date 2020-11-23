@@ -96,6 +96,7 @@ excerpt: "A list of recent publications and previous events"
 <p>Rosanna Ryan and Alex McClintock (6 November 2017). <i>100 years after the Russian Revolution, what do millennials see in socialism?</i> RN
 <p>
 <h2>Previous Events</h2>
+<p>Migrant Workers Conference 2020: Pandemic, Recession and Social Safety Nets (23 November 2020), <i>Session 1: Surviving the Pandemic</i> 
 <p>Deakin Human Rights and Refugees Society (14 August 2020), <i>Racism in Modern Australia</i>
 <p>The Economic and Labour Relations Review (12 June 2020), <i>Green New Deals? The role of and limitations on the Commonwealth Government in an Australian Green New Deal</i>, Green New Deal Special Issue – Digital Workshop
 <p>Australian Communities Foundation (27 March 2020), <i>Tackling Inequality Learning Circle - China: Power, Human Rights and Racism in Australia</i>
