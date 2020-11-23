@@ -83,7 +83,7 @@ excerpt: "A list of recent publications and previous events"
 <p>ABC Radio National (7 March 2020). <i>Saturday Extra</i>
 <p>7am (27 February 2020). <i>How coronavirus feeds Australian racism</i>
 <p>ABC Radio Sydney (27 February 2020). <i>Breakfast with Wendy Harmer and Robbie Buck</i>
-<p>3AW (26 February 2019). <i>Drive with Tom Elliot</i>
+<p>3AW (26 February 2020). <i>Drive with Tom Elliot</i>
 <p>Katie Burgess (26 February 2020). <i>Australia's 'too white' politics can't deal with foreign interference</i>, Canberra Times
 <p>ABC News 24 (25 February 2020).  <i>ABC News Afternoons</i>
 <p>Nick Bonyhady (25 February 2020). <i>Report calls for preselection targets to elect more culturally diverse MPs</i>, Sydney Morning Herald
