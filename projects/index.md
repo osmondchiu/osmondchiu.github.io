@@ -8,7 +8,7 @@ excerpt: "A list of recent publications and previous events"
 <h2>Publications</h2>
 <p>Meanjin (21 October 2020). <i>Abetz’s questioning tests our democracy</i>
 <p>Sydney Morning Herald (15 October 2020). <i>I was born in Australia. Why do I need to renounce the Chinese Communist Party?</i>
-<p>Emma Dawson and Janet McCalman (29 September 2020) 'Rebuilding the Public Sector', in <i>What Happens Next? Reconstructing Australia after COVID-19</i>
+<p>Emma Dawson and Janet McCalman (eds.) (29 September 2020) 'Rebuilding the Public Sector', in <i>What Happens Next? Reconstructing Australia after COVID-19</i>
 <p>The China Story (10 August 2020). <i>COVID-19 has led to widespread incidents of anti-Asian racism in Australia</i>
 <p>Jacobin Magazine (28 July 2020). <i>Locking Out the Left: The Emergence of National Factions in Australian Labor</i>
 <p>Canberra Times (27 July 2020). <i>One of the biggest open secrets in Australian public policy</i>
@@ -31,10 +31,12 @@ excerpt: "A list of recent publications and previous events"
 <p>SBS Voices (27 August 2018). <i>Returning to Chinese school as an adult</i>
 <p>Eureka Street (13 August 2018). <i>Free expression is a workplace issue too</i>
 <p>Guardian Australia (17 July 2018). <i>CEOs don't understand how angry workers feel about executive pay</i>
+<p>Osmond Chiu, Victoria Fielding and Eugene Stroinovsky (eds.) (30 June 2018). <i>Preparing to Govern: ideas for the next NSW Labor Government</i>. Australian Fabians
 <p>Eureka Street (25 May 2018). <i>Robots are not the real threat to work</i>
 <p>Sydney Morning Herald (26 April 2018). <i>We need different faces in Parliament</i>
 <p>Eureka Street (10 November 2017). <i>It's time to revisit free education</i>
 <p>Eureka Street (16 September 2017). <i>Battling the Pauline Hanson battler myth</i>
+<p>Osmond Chiu and Victoria Fielding (eds.) (29 July 2017). <i>A new vision for NSW: ideas for the next NSW Labor Government</i>. Australian Fabians
 <p>Whitlam Institute (13 July 2017) 'The Impact of Economic Rationalism on the Australian Public Service: from 1991 to the present', in <i>Economic Rationalism in Canberra: Twenty-Five Years On</i>
 <p>Australian Journal of Public Administration (13 May 2017). <i>A Portrait of Failure: Ongoing Funding Cuts to Australia's Cultural Institutions</i>, Vol 77(1), co-authored with Kristin van Barneveld
 <p>Junkee (20 March 2017). <i>The Real Story Behind Harmony Day: How John Howard Depoliticised Anti-Racism</i>
