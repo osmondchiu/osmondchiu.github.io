@@ -45,7 +45,8 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 <p>
 <h2>Media and Interviews</h2>
-<p>Ahmed Yussuf (13 November 2020) <i>Asian Australian group calls on the government to condemn Senator Eric Abetz</i>. The Feed SBS
+<p>Nino Bucci and Yang Tian (4 December 2020).</i>'Double-bind': Chinese-Australians face difficult times as tensions grow</i>. Guardian Australia
+<p>Ahmed Yussuf (13 November 2020). <i>Asian Australian group calls on the government to condemn Senator Eric Abetz</i>. The Feed SBS
 <p>Samuel Yang (13 November 2020). <i>Petition with 25,000 signatures calling on Prime Minister to condemn Eric Abetz delivered to Scott Morrison</i>. ABC News
 <p>Q&A (9 November 2020). <i>Politicians, Presidents and the Palace</i>. ABC TV  
 <p>Tom Ballard (30 October 2020). <i>Like I'm A Six Year Old</i>
