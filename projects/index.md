@@ -6,6 +6,7 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
+<p>Silent Dialogue (December 2020). <i>On Roots and Routes: Navigating Identity as Part of the Chinese Diaspora</i>
 <p>Meanjin (21 October 2020). <i>Abetz’s questioning tests our democracy</i>
 <p>Sydney Morning Herald (15 October 2020). <i>I was born in Australia. Why do I need to renounce the Chinese Communist Party?</i>
 <p>Emma Dawson and Janet McCalman (eds.) (29 September 2020) 'Rebuilding the Public Sector', in <i>What Happens Next? Reconstructing Australia after COVID-19</i>
