@@ -6,6 +6,7 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
+<p>Canberra Times (26 January 2021). <i>Surely I can't be the only ambivalent Australian republican?</i>
 <p>Silent Dialogue (December 2020). <i>On Roots and Routes: Navigating Identity as Part of the Chinese Diaspora</i>
 <p>Meanjin (21 October 2020). <i>Abetz’s questioning tests our democracy</i>
 <p>Sydney Morning Herald (15 October 2020). <i>I was born in Australia. Why do I need to renounce the Chinese Communist Party?</i>
