@@ -50,6 +50,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 <p>
 <h2>Media and Interviews</h2>
+<p>Anthony Galloway (3 March 2021). <i>‘Deeply concerning’: One in five Chinese Australians threatened or attacked during coronavirus</i>. Sydney Morning Herald
 <p>Frances Mao (31 December 2020). <i>Australia-China row: 'I'm Australian - why do I need to prove my loyalty?'</i>. BBC News
 <p>Nino Bucci and Yang Tian (4 December 2020).<i>'Double-bind': Chinese-Australians face difficult times as tensions grow</i>. Guardian Australia
 <p>Ahmed Yussuf (13 November 2020). <i>Asian Australian group calls on the government to condemn Senator Eric Abetz</i>. The Feed SBS
