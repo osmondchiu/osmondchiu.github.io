@@ -50,6 +50,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 <p>
 <h2>Media and Interviews</h2>
+<p>Naaman Zhou (4 March 2021). <i>Death threats, distrust and racism: how anti-Chinese sentiment in Australia 'seeped into the mainstream'</i>. Guardian Australia
 <p>Anthony Galloway (3 March 2021). <i>‘Deeply concerning’: One in five Chinese Australians threatened or attacked during coronavirus</i>. Sydney Morning Herald
 <p>Frances Mao (31 December 2020). <i>Australia-China row: 'I'm Australian - why do I need to prove my loyalty?'</i>. BBC News
 <p>Nino Bucci and Yang Tian (4 December 2020).<i>'Double-bind': Chinese-Australians face difficult times as tensions grow</i>. Guardian Australia
