@@ -51,6 +51,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 <p>
 <h2>Media and Interviews</h2>
+<p>Nick Bonyhady (11 April 2021). <i>Wrestling with free speech, racism and China on university campuses</i>. Sydney Morning Herald
 <p>D'oh Kapital (17 March 2021). <i>Episode 9 - Aaaand we're back (w/ guest Osmond Chiu)</i>.
 <p>Naaman Zhou (4 March 2021). <i>Death threats, distrust and racism: how anti-Chinese sentiment in Australia 'seeped into the mainstream'</i>. Guardian Australia
 <p>Anthony Galloway (3 March 2021). <i>‘Deeply concerning’: One in five Chinese Australians threatened or attacked during coronavirus</i>. Sydney Morning Herald
