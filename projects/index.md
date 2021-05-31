@@ -52,7 +52,8 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 <p>
 <h2>Media and Interviews</h2>
-<p>Anthony Galloway (13 April 2020). <i>Anti-Chinese racism hinders efforts to counter foreign interference: Paterson</i>. Sydney Morning Herald
+<p>Naaman Zhou (31 May 2021). <i>Asian-Australian Labor members say Michael Daley hasn’t learned from ‘Asians with PhDs’ comments</i>. Guardian Australia
+<p>Anthony Galloway (13 April 2021). <i>Anti-Chinese racism hinders efforts to counter foreign interference: Paterson</i>. Sydney Morning Herald
 <p>Nick Bonyhady (11 April 2021). <i>Wrestling with free speech, racism and China on university campuses</i>. Sydney Morning Herald
 <p>D'oh Kapital (17 March 2021). <i>Episode 9 - Aaaand we're back (w/ guest Osmond Chiu)</i>.
 <p>Naaman Zhou (4 March 2021). <i>Death threats, distrust and racism: how anti-Chinese sentiment in Australia 'seeped into the mainstream'</i>. Guardian Australia
