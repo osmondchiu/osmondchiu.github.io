@@ -6,6 +6,7 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
+<p>Jacobin Magazine (1 June 2021). <i>When Christmas Island Workers United Against Colonialism and Apartheid</i>
 <p>Sydney Morning Herald (31 May 2021). <i>Why I cannot support Michael Daley for the Labor leadership in NSW</i>
 <p>The Interpreter (23 March 2021). <i>Australian politics should be as diverse as its people.</i> Lowy Institute
 <p>The China Story (23 February 2021). <i>Negative feelings towards Chinese immigrants show our debates do not happen in a vacuum</i>
