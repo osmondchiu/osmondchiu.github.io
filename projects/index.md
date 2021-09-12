@@ -54,6 +54,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 <p>
 <h2>Media and Interviews</h2>
+<p>Clare Armstrong (12 September 2021). <i>Moving Kristina Keneally to Western Sydney seat at odds with diversity push within NSW Labor</i>. Daily Telegraph
 <p>Paul Karp and Amy Remeikis (10 September 2021). <i>Kristina Keneally’s bid for lower house seat of Fowler a ‘missed opportunity’, Labor critics say.</i> Guardian Australia
 <p>Kishor Napier-Raman (10 September 2021). <i>Kristina Keneally confirms lower house move, as factional feud trumps diversity</i>
 <p>Jordan Murray (8 September 2021). <i>Pressure ramps up on privatisation</i>. Business News WA
