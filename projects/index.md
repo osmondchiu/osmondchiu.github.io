@@ -54,6 +54,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 <p>
 <h2>Media and Interviews</h2>
+<p>Ellen Ransley (14 September 2021). <i>Anthony Albanese faces backlash for saying Kristina Keneally is a migrant success story and example of diversity</i>. News.com.au
 <p>Clare Armstrong (12 September 2021). <i>Moving Kristina Keneally to Western Sydney seat at odds with diversity push within NSW Labor</i>. Daily Telegraph
 <p>Paul Karp and Amy Remeikis (10 September 2021). <i>Kristina Keneally’s bid for lower house seat of Fowler a ‘missed opportunity’, Labor critics say.</i> Guardian Australia
 <p>Kishor Napier-Raman (10 September 2021). <i>Kristina Keneally confirms lower house move, as factional feud trumps diversity</i>
