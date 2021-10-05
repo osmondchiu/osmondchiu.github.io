@@ -6,6 +6,7 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
+<p>Canberra Times (6 October). <i>It's not tokenism. Diverse political parties make better decisions</i>
 <p>City Hub Sydney (12 July 2021). <i>Deamalgamation a distraction from a vision of a better Inner West</i>
 <p>Jacobin Magazine (1 June 2021). <i>When Christmas Island Workers United Against Colonialism and Apartheid</i>
 <p>Sydney Morning Herald (31 May 2021). <i>Why I cannot support Michael Daley for the Labor leadership in NSW</i>
