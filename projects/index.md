@@ -55,6 +55,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 <p>
 <h2>Media and Interviews</h2>
+<p>Troy Bramston (9 October 2021). <i>Labor’s ‘Fortress NSW a house of cards … no mood for change’</i>. The Australian
 <p>Yan Zhuang (6 October 2021). <i>A Sea of White Faces in Australia's 'Party of Multiculturalism'</i>. New York Times
 <p>Katina Curtis (18 September 2021). <i>‘Be less of a white boys’ club’: How to address Parliament’s lack of diversity</i>. Sydney Morning Herald
 <p>Millie Roberts (17 September 2021). <i>Australia Has A Massive Diversity Problem In Parliament – Here’s How We Can Fix It</i>. Junkee
