@@ -53,9 +53,9 @@ excerpt: "A list of recent publications and previous events"
 <p>New Matilda (14 March 2014). <i>Are Primaries Really The Answer To Labor's Woes?</i>
 <p>New Matilda (6 November 2013). <i>Unions NSW Are Right To Challenge O'Farrell</i>
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
-<p>
+
 <h2>Media and Interviews</h2>
-<p>Triple R - 102.7FM (30 December 2021). <i>What in the World?</i>
+<p>Jarni Blakkary (30 December 2021). <i>What in the World?</i> Triple R - 102.7FM
 <p>The Tally Room (14 December 2021). <i>Podcast #62 – NSW council election results</i>
 <p>Tom Stayner (4 November 2021). <i>Concerns foreign interference laws have fuelled suspicion of Chinese community</i>. SBS News
 <p>Troy Bramston (9 October 2021). <i>Labor’s ‘Fortress NSW a house of cards … no mood for change’</i>. The Australian
@@ -87,7 +87,7 @@ excerpt: "A list of recent publications and previous events"
 <p>SBS (22 October 2020). <i>SBS World News</i>
 <p>ABC (22 October 2020). <i>AM</i>. ABC Radio National
 <p>Bang Xiao and Stephen Dziedzic (22 October 2020). <i>Senator Eric Abetz's controversial questions about loyalty rattle Chinese communities in Australia</i>. ABC News Online
-<p>Osman Faruqi and Madeline Hayman-Reber (19 October 2020). <i>Read the Room</i>. Triple R
+<p>Osman Faruqi and Madeline Hayman-Reber (19 October 2020). <i>Read the Room</i>. Triple R - 102.7FM
 <p>Adam Holmes (18 October 2020). <i>Senator Eric Abetz accused of 'racist' questioning of Chinese Australians during Senate inquiry</i>. The Advocate
 <p>Su-Lin Tan (15 October 2020). <i>Senator insists Chinese-Australians condemn CCP at inquiry on diaspora issues, sparking backlash</i>. South China Morning Post
 <p>Naveen Razik (15 October 2020). <i>'Race-baiting McCarthyism': Eric Abetz slammed for asking Chinese Australians to denounce Communist Party during diaspora inquiry</i>. SBS News
