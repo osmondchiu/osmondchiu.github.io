@@ -6,6 +6,7 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
+<p>Canberra Times (4 February 2022). <i>Progressives need to think about the Senate. Their agenda depends on a working majority</i>
 <p>Canberra Times (6 October 2021). <i>It's not tokenism. Diverse political parties make better decisions</i>
 <p>City Hub Sydney (12 July 2021). <i>Deamalgamation a distraction from a vision of a better Inner West</i>
 <p>Jacobin Magazine (1 June 2021). <i>When Christmas Island Workers United Against Colonialism and Apartheid</i>
@@ -55,6 +56,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>Dong Xing (2 February 2022). <i>澳洲总理微信号遭转卖 中国干预大选?</i>. DW 中文- 德国之声
 <p>Jarni Blakkary (30 December 2021). <i>What in the World?</i> Triple R - 102.7FM
 <p>The Tally Room (14 December 2021). <i>Podcast #62 – NSW council election results</i>
 <p>Tom Stayner (4 November 2021). <i>Concerns foreign interference laws have fuelled suspicion of Chinese community</i>. SBS News
@@ -88,6 +90,7 @@ excerpt: "A list of recent publications and previous events"
 <p>ABC (22 October 2020). <i>AM</i>. ABC Radio National
 <p>Bang Xiao and Stephen Dziedzic (22 October 2020). <i>Senator Eric Abetz's controversial questions about loyalty rattle Chinese communities in Australia</i>. ABC News Online
 <p>Osman Faruqi and Madeline Hayman-Reber (19 October 2020). <i>Read the Room</i>. Triple R - 102.7FM
+<p>Bang Xiao (17 October 2020). <i>参议院听证会要求澳洲华人谴责中共 莫里森回应再引争议</i>. ABC中文
 <p>Adam Holmes (18 October 2020). <i>Senator Eric Abetz accused of 'racist' questioning of Chinese Australians during Senate inquiry</i>. The Advocate
 <p>Su-Lin Tan (15 October 2020). <i>Senator insists Chinese-Australians condemn CCP at inquiry on diaspora issues, sparking backlash</i>. South China Morning Post
 <p>Naveen Razik (15 October 2020). <i>'Race-baiting McCarthyism': Eric Abetz slammed for asking Chinese Australians to denounce Communist Party during diaspora inquiry</i>. SBS News
