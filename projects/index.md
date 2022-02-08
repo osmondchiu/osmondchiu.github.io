@@ -56,6 +56,8 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>Emma Brancatisano (9 February 2022). <i>Why some Chinese-Australians are 'aghast' at the government's tough talk on China</i>. SBS News
+<p>Su-Lin Tan (9 February 2022). <i>Scott Morrison’s WeChat account wasn’t hacked, no evidence of Chinese foreign interference, says Labor Party after official briefing</i>. South China Morning Post
 <p>Dong Xing (2 February 2022). <i>澳洲总理微信号遭转卖 中国干预大选?</i>. DW 中文- 德国之声
 <p>Jarni Blakkary (30 December 2021). <i>What in the World?</i> Triple R - 102.7FM
 <p>The Tally Room (14 December 2021). <i>Podcast #62 – NSW council election results</i>
