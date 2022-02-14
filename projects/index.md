@@ -6,6 +6,7 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
+<p>The China Story (14 February 2022). <i>Australian Politics and the China Card: a Dangerous Game</i>
 <p>Canberra Times (4 February 2022). <i>Progressives need to think about the Senate. Their agenda depends on a working majority</i>
 <p>Canberra Times (6 October 2021). <i>It's not tokenism. Diverse political parties make better decisions</i>
 <p>City Hub Sydney (12 July 2021). <i>Deamalgamation a distraction from a vision of a better Inner West</i>
