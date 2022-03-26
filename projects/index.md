@@ -57,6 +57,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>Natassia Chrysanthos and Jacqueline Maley (26 March 2022). <i>Voters have shown they don’t want parachute candidates. So why do parties do it?</i>. Sydney Morning Herald
 <p>Patrick McKenzie (25 March 2022). <i>Anti-Racism strategy to be adopted in Inner West following sign removal stoush</i>. City Hub Sydney
 <p>Mark Mordue (24 March 2022). <i>Taking it to the Streets</i>. City Hub Sydney
 <p>Danielle Li, Jason Fang and Michael Li (20 March 2022). <i>Chinese Australians still encounter racism and questions of loyalty from both countries</i>. ABC News
