@@ -57,6 +57,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>Akash Ahora (21 April 2022). <i>One in three Chinese-Australians suffer discrimination due to their heritage, report says.</i> SBS News 
 <p>Shirley Glaister (4 April 2022). <i>How Section 44 remains a 'major obstacle' blocking migrant Australians from politics.</i> SBS
 <p>Michael McGowan (29 March 2022). <i>Disillusionment grows within Labor about the party’s commitment to cultural diversity</i>. Guardian Australia
 <p>Natassia Chrysanthos and Jacqueline Maley (26 March 2022). <i>Voters have shown they don’t want parachute candidates. So why do parties do it?</i>. Sydney Morning Herald
