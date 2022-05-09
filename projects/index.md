@@ -57,6 +57,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>Su-Lin Tan (9 May 2022). <i>China-Australia relations: threat of war, race-baiting feature in campaigning ahead of May 21 election.</i> South China Morning Post
 <p>Akash Ahora (21 April 2022). <i>One in three Chinese-Australians suffer discrimination due to their heritage, report says.</i> SBS News 
 <p>Shirley Glaister (4 April 2022). <i>How Section 44 remains a 'major obstacle' blocking migrant Australians from politics.</i> SBS
 <p>Michael McGowan (29 March 2022). <i>Disillusionment grows within Labor about the party’s commitment to cultural diversity</i>. Guardian Australia
