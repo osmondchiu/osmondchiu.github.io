@@ -69,7 +69,7 @@ excerpt: "A list of recent publications and previous events"
 <p>Patrick McKenzie (25 March 2022). <i>Anti-Racism strategy to be adopted in Inner West following sign removal stoush</i>. City Hub Sydney
 <p>Mark Mordue (24 March 2022). <i>Taking it to the Streets</i>. City Hub Sydney
 <p>Danielle Li, Jason Fang and Michael Li (20 March 2022). <i>Chinese Australians still encounter racism and questions of loyalty from both countries</i>. ABC News
-<p>Ben Westacott (24 February 2022). <i>Australia PM Gambles on Anti-China Strategy to Lift Poll Numbers</i>. Bloomberg
+<p>Ben Westcott (24 February 2022). <i>Australia PM Gambles on Anti-China Strategy to Lift Poll Numbers</i>. Bloomberg
 <p>Emma Brancatisano (9 February 2022). <i>Why some Chinese-Australians are 'aghast' at the government's tough talk on China</i>. SBS News
 <p>Su-Lin Tan (9 February 2022). <i>Scott Morrison’s WeChat account wasn’t hacked, no evidence of Chinese foreign interference, says Labor Party after official briefing</i>. South China Morning Post
 <p>Dong Xing (2 February 2022). <i>澳洲总理微信号遭转卖 中国干预大选?</i>. DW 中文- 德国之声
