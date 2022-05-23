@@ -6,6 +6,7 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
+<p>Tribune Magazine (23 May 2022). <i>Australia's Left Turn</i>
 <p>The China Story (14 February 2022). <i>Australian Politics and the China Card: a Dangerous Game</i>
 <p>Canberra Times (4 February 2022). <i>Progressives need to think about the Senate. Their agenda depends on a working majority</i>
 <p>Canberra Times (6 October 2021). <i>It's not tokenism. Diverse political parties make better decisions</i>
@@ -57,6 +58,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>Matthew Knott (24 May 2022). <i>‘Watershed moment’: Parliament makes important diversity gains.</i> Sydney Morning Herald
 <p>Wanning Sun (23 May 2022). <i>The Liberals’ anti-China rhetoric cost them votes and, likely, key seats.</i> Crikey
 <p>Frances Mao (20 May 2022). <i>Australia election: Why is Australia's parliament so white?</i> BBC News
 <p>Su-Lin Tan (18 May 2022). <i>Australian MP’s #WrongAsian gaffe deals fresh blow to Liberals days before election.</i> South China Morning Post
