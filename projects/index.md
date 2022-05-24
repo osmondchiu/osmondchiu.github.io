@@ -58,6 +58,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>Akash Ahora (24 May 2022). <i>Asian representation in parliament has now doubled. But some advocates say it’s not enough.</i> SBS News
 <p>Matthew Knott (24 May 2022). <i>‘Watershed moment’: Parliament makes important diversity gains.</i> Sydney Morning Herald
 <p>Wanning Sun (23 May 2022). <i>The Liberals’ anti-China rhetoric cost them votes and, likely, key seats.</i> Crikey
 <p>Frances Mao (20 May 2022). <i>Australia election: Why is Australia's parliament so white?</i> BBC News
