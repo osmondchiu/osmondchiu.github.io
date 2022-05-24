@@ -58,6 +58,8 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>Jason Om (24 May 2022). <i>How did Labor get it so wrong in Fowler?</i>. ABC News 
+<p>ABC TV (24 May 2022). <i>Meet Dai Le – the independent who won in Labor’s heartland</i>. 7.30 
 <p>Akash Ahora (24 May 2022). <i>Asian representation in parliament has now doubled. But some advocates say it’s not enough.</i> SBS News
 <p>Matthew Knott (24 May 2022). <i>‘Watershed moment’: Parliament makes important diversity gains.</i> Sydney Morning Herald
 <p>Wanning Sun (23 May 2022). <i>The Liberals’ anti-China rhetoric cost them votes and, likely, key seats.</i> Crikey
