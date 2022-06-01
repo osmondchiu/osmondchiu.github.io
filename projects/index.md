@@ -6,6 +6,7 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
+<p>Labour Hub (27 May 2022). <i>Victory in Australia</i>
 <p>Tribune Magazine (23 May 2022). <i>Australia's Left Turn</i>
 <p>The China Story (14 February 2022). <i>Australian Politics and the China Card: a Dangerous Game</i>
 <p>Canberra Times (4 February 2022). <i>Progressives need to think about the Senate. Their agenda depends on a working majority</i>
