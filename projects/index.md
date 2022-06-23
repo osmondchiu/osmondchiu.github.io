@@ -6,6 +6,7 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
+<p>Canberra Times (24 June 2022). <i>We need a federal parliament that truly reflects our nation</i>
 <p>Labour Hub (27 May 2022). <i>Victory in Australia</i>
 <p>Tribune Magazine (23 May 2022). <i>Australia's Left Turn</i>
 <p>The China Story (14 February 2022). <i>Australian Politics and the China Card: a Dangerous Game</i>
@@ -158,13 +159,17 @@ excerpt: "A list of recent publications and previous events"
 <p>Rosanna Ryan and Alex McClintock (6 November 2017). <i>100 years after the Russian Revolution, what do millennials see in socialism?</i> RN
 <p>
 <h2>Previous Events</h2>
-<p>NSW Labor Left (7 December 2021), <i>2021 Bruce Childs Lecture</i>
+<p>ANU Gender Institute, the Global Institute for Women’s Leadership, ANU, the Centre for Asian Australian Leadership and the School of Culture, History and Languages in the College of Asia and the Pacific (15 July 2022) <i>Gender & Cultural Diversity in Politics: Australia, Asia & the Pacific</i>
+<p>UCL Institute for Innovation and Public Purpose and University of Greenwich’s Public Services International Research Unit (UoG-PSIRU) (28 June 2022). <i>Shifting Narratives Conference</i>
+<p>Australian Historical Association (28 June 2022). <i>2022 Conference: Historicalizing Violence against Chinese Migrants and their Descendants in the Pacific</i>
+<p>Centre for Australian Progress (24 June 2022). <i>Webinar: Winning in the New Political Context</i>
+<p>NSW Labor Left (7 December 2021). <i>2021 Bruce Childs Lecture</i>
 <p>Migrant Workers Conference 2020: Pandemic, Recession and Social Safety Nets (23 November 2020), <i>Session 1: Surviving the Pandemic</i> 
-<p>Deakin Human Rights and Refugees Society (14 August 2020), <i>Racism in Modern Australia</i>
-<p>The Economic and Labour Relations Review (12 June 2020), <i>Green New Deals? The role of and limitations on the Commonwealth Government in an Australian Green New Deal</i>, Green New Deal Special Issue – Digital Workshop
+<p>Deakin Human Rights and Refugees Society (14 August 2020). <i>Racism in Modern Australia</i>
+<p>The Economic and Labour Relations Review (12 June 2020). <i>Green New Deals? The role of and limitations on the Commonwealth Government in an Australian Green New Deal</i>, Green New Deal Special Issue – Digital Workshop
 <p>Australian Communities Foundation (27 March 2020), <i>Tackling Inequality Learning Circle - China: Power, Human Rights and Racism in Australia</i>
-<p>NSW Fabians (13 February 2020), <i>A Green New Deal for Australia?</i>
-<p>Australia-China Relations Institute, University of Technology Sydney (4 February 2020), <i>Australia China Relations: The State of Play</i>
+<p>NSW Fabians (13 February 2020). <i>A Green New Deal for Australia?</i>
+<p>Australia-China Relations Institute, University of Technology Sydney (4 February 2020). <i>Australia China Relations: The State of Play</i>
 <p>Chifley Research Centre (8 December 2019). 'Inclusive Patriotism', <i>Towards 2022: Ideas for Labor and Australia</i>
 <p>Sydney Young Labor (20 October 2019). <i>Green New Deal Panel: Climate Struggle and the Labour Movement</i>
 <p>16th Biennial Conference of the Australian Society for the Study of Labour History (4 October 2019). <i>“Show and Tell”: A short history of the ACT Left Caucus</i>
