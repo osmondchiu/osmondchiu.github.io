@@ -160,6 +160,7 @@ excerpt: "A list of recent publications and previous events"
 <p>Rosanna Ryan and Alex McClintock (6 November 2017). <i>100 years after the Russian Revolution, what do millennials see in socialism?</i> RN
 <p>
 <h2>Previous Events</h2>
+<p>Centre for Australian Progress (11 August 2022). <i>Winning Policy Advocacy Workshop</i>
 <p>ANU Gender Institute, the Global Institute for Women’s Leadership, ANU, the Centre for Asian Australian Leadership and the School of Culture, History and Languages in the College of Asia and the Pacific (15 July 2022). <i>Gender & Cultural Diversity in Politics: Australia, Asia & the Pacific</i>
 <p>UCL Institute for Innovation and Public Purpose and University of Greenwich’s Public Services International Research Unit (UoG-PSIRU) (28 June 2022). <i>Shifting Narratives Conference</i>
 <p>Australian Historical Association (28 June 2022). <i>2022 Conference: Historicalizing Violence against Chinese Migrants and their Descendants in the Pacific</i>
