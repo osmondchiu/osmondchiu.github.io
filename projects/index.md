@@ -64,7 +64,7 @@ excerpt: "A list of recent publications and previous events"
 <p>Josh Butler (10 August 2022). <i>Kristina Keneally defeat a wake-up call on parachuting in candidates, Labor diversity group says</i>. Guardian Australia  
 <p>Amy Remeikis (25 July 2022). <i>The 47th parliament is the most diverse ever – but still doesn’t reflect Australia</i>. Guardian Australia
 <p>Amanda Tattersall (14 June 2022). <i>Diversity and Party Politics</i>. ChangeMaker Chat
-<p>Jason Om (24 May 2022). <i>How did Labor get it so wrong in Fowler?</i>. ABC News 
+<p>Jason Om (24 May 2022). <i>How did Labor get it so wrong in Fowler?</i> ABC News 
 <p>ABC TV (24 May 2022). <i>Meet Dai Le – the independent who won in Labor’s heartland</i>. 7.30 
 <p>Akash Ahora (24 May 2022). <i>Asian representation in parliament has now doubled. But some advocates say it’s not enough.</i> SBS News
 <p>Matthew Knott (24 May 2022). <i>‘Watershed moment’: Parliament makes important diversity gains.</i> Sydney Morning Herald
