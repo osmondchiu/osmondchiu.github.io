@@ -60,7 +60,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
-<p>Tom Stayner (12 August 2022). </i>Booze, bullying and harassment: Culture problem in Australia’s parliaments laid bare</i>. SBS News
+<p>Tom Stayner (12 August 2022). <i>Booze, bullying and harassment: Culture problem in Australia’s parliaments laid bare</i>. SBS News
 <p>ABC (10 August 2022). <i>Breakfast</i>. ABC NewsRadio
 <p>Josh Butler (10 August 2022). <i>Kristina Keneally defeat a wake-up call on parachuting in candidates, Labor diversity group says</i>. Guardian Australia  
 <p>Amy Remeikis (25 July 2022). <i>The 47th parliament is the most diverse ever – but still doesn’t reflect Australia</i>. Guardian Australia
