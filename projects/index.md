@@ -6,6 +6,8 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
+<p>Jacobin Magazine (20 September 2022). <i>The New South Wales Labor Party Is Wildly Corrupt. It Needs Democratic Reform.</i>
+<p>Per Capita (9 September 2022). <i>A truly progressive local agenda needs community wealth building</i>
 <p>Canberra Times (24 June 2022). <i>We need a federal parliament that truly reflects our nation</i>
 <p>Labour Hub (27 May 2022). <i>Victory in Australia</i>
 <p>Tribune Magazine (23 May 2022). <i>Australia's Left Turn</i>
