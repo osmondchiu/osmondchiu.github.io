@@ -27,6 +27,7 @@ excerpt: "A list of recent publications and previous events"
 <p>The China Story (10 August 2020). <i>COVID-19 has led to widespread incidents of anti-Asian racism in Australia</i>
 <p>Jacobin Magazine (28 July 2020). <i>Locking Out the Left: The Emergence of National Factions in Australian Labor</i>
 <p>Canberra Times (27 July 2020). <i>One of the biggest open secrets in Australian public policy</i>
+<p>Osmond Chiu and Peter Chuang (July 2020). <i>COVID-19 Coronavirus Racism Incident Report: Reporting Racism against Asians in Australia Arising Due to the COVID-19 Coronavirus Pandemic</i>. Asian Australian Alliance
 <p>Pearls & Irritations (25 June 2020). <i>Confronting anti-Asian racism shows Australia’s commitment to democratic values</i>
 <p>The China Story (15 April 2020). <i>COVID-19 racism echoes historical anti-Chinese sentiment</i>
 <p>South China Morning Post (2 March 2020). <i>Australia’s watershed political moment: welcoming Asian-Australians to the table</i>
@@ -62,6 +63,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>Caroline Zielinski (21 October 2022). <i>‘We had nothing to lose, no pride, no ego’: Why these 20-somethings became mayors</i>. Good Weekend Magazine
 <p>Jewel Topsfield (4 October 2022). <i>Candidate ‘elbowed out’ by Labor named most influential Asian Australian</i>. The Age
 <p>Soaliha Iqbal (14 September 2022). <i>A Sydney Councillor Said Anti-Racism Is Anti-Australian, Unwittingly Agreeing With Anti-Racists</i>. PEDESTRIAN.TV  
 <p>Tom Stayner (12 August 2022). <i>Booze, bullying and harassment: Culture problem in Australia’s parliaments laid bare</i>. SBS News
