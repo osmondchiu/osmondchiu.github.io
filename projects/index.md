@@ -63,6 +63,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>Paul Sakkal (14 December 2022). <i>Victorian parliament goes backwards on diversity as Labor fails to pick non-European MPs</i>. The Age
 <p>Caroline Zielinski (21 October 2022). <i>‘We had nothing to lose, no pride, no ego’: Why these 20-somethings became mayors</i>. Good Weekend Magazine
 <p>Jewel Topsfield (4 October 2022). <i>Candidate ‘elbowed out’ by Labor named most influential Asian Australian</i>. The Age
 <p>Soaliha Iqbal (14 September 2022). <i>A Sydney Councillor Said Anti-Racism Is Anti-Australian, Unwittingly Agreeing With Anti-Racists</i>. PEDESTRIAN.TV  
