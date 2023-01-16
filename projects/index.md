@@ -64,6 +64,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>Jodi Lee (16 January 2022). <i>7News Melbourne.</i> Channel 7
 <p>Tom Cannetti (12 January 2022). <i>Here's the reason we should have more public holidays in Australia</i>. SBS News
 <p>Paul Sakkal (14 December 2022). <i>Victorian parliament goes backwards on diversity as Labor fails to pick non-European MPs</i>. The Age
 <p>Caroline Zielinski (21 October 2022). <i>‘We had nothing to lose, no pride, no ego’: Why these 20-somethings became mayors</i>. Good Weekend Magazine
