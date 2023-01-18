@@ -64,6 +64,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>Sumeyya Ilanbey (19 January 2023). <i>Victorian Labor called out over lack of cultural diversity</i>. The Age
 <p>Jo Laverty (18 January 2023). <i>Breakfast</i>. ABC Darwin
 <p>Tamika Seeto (17 January 2023). <i>Push for two extra public holidays: ‘A no-brainer’</i>. Yahoo! News
 <p>Sowaibah Hanifie (17 January 2023). <i>Think tank researcher calls for Australia to add two more public holidays - with Diwali and Lunar New Year obvious choices</i>. 7News.com.au
