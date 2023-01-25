@@ -65,6 +65,7 @@ excerpt: "A list of recent publications and previous events"
 
 <h2>Media and Interviews</h2>
 <p>ABC Radio National (29 January 2023). <i>Sunday Extra</i>
+<p>Minyue Ding (25 January 2023). <i>到底哪天休？澳洲公共假期安排引发华人社区讨论</i>. SBS Chinese
 <p>Sumeyya Ilanbey (19 January 2023). <i>Victorian Labor called out over lack of cultural diversity</i>. The Age
 <p>Jo Laverty (18 January 2023). <i>Breakfast</i>. ABC Darwin
 <p>Tamika Seeto (17 January 2023). <i>Push for two extra public holidays: ‘A no-brainer’</i>. Yahoo! News
