@@ -6,6 +6,7 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
+<p>East Asian Forum (10 March 2023). <i>Australia’s Chinese diaspora faces a representation deficit</i>
 <p>The Interpreter (12 January 2023). <i>Our public holidays should reflect Australia’s multicultural make-up.</i> Lowy Institute
 <p>Jacobin Magazine (20 September 2022). <i>The New South Wales Labor Party Is Wildly Corrupt. It Needs Democratic Reform.</i>
 <p>Per Capita (9 September 2022). <i>A truly progressive local agenda needs community wealth building</i>
