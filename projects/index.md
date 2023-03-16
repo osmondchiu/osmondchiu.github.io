@@ -65,6 +65,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>Gus McCubbing (16 March 2023). <i>Liberals fire up WeChat in race to attract Chinese voters in Aston.</i> Australian Financial Review<
 <p>ABC Radio National (29 January 2023). <i>Sunday Extra</i>
 <p>Minyue Ding (25 January 2023). <i>到底哪天休？澳洲公共假期安排引发华人社区讨论</i>. SBS Chinese
 <p>Sumeyya Ilanbey (19 January 2023). <i>Victorian Labor called out over lack of cultural diversity</i>. The Age
