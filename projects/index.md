@@ -72,8 +72,8 @@ excerpt: "A list of recent publications and previous events"
 <p>Jo Laverty (18 January 2023). <i>Breakfast</i>. ABC Darwin
 <p>Tamika Seeto (17 January 2023). <i>Push for two extra public holidays: ‘A no-brainer’</i>. Yahoo! News
 <p>Sowaibah Hanifie (17 January 2023). <i>Think tank researcher calls for Australia to add two more public holidays - with Diwali and Lunar New Year obvious choices</i>. 7News.com.au
-<p>Jodi Lee (16 January 2022). <i>7News Melbourne</i>. Channel 7
-<p>Tom Cannetti (12 January 2022). <i>Here's the reason we should have more public holidays in Australia</i>. SBS News
+<p>Jodi Lee (16 January 2023). <i>7News Melbourne</i>. Channel 7
+<p>Tom Cannetti (12 January 2023). <i>Here's the reason we should have more public holidays in Australia</i>. SBS News
 <p>Paul Sakkal (14 December 2022). <i>Victorian parliament goes backwards on diversity as Labor fails to pick non-European MPs</i>. The Age
 <p>Caroline Zielinski (21 October 2022). <i>‘We had nothing to lose, no pride, no ego’: Why these 20-somethings became mayors</i>. Good Weekend Magazine
 <p>Jewel Topsfield (4 October 2022). <i>Candidate ‘elbowed out’ by Labor named most influential Asian Australian</i>. The Age
