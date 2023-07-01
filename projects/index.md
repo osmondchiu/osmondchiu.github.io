@@ -110,6 +110,7 @@ excerpt: "A list of recent publications and previous events"
 <p>Jarni Blakkary (30 December 2021). <i>What in the World?</i> Triple R - 102.7FM
 <p>The Tally Room (14 December 2021). <i>Podcast #62 – NSW council election results</i>
 <p>Tom Stayner (4 November 2021). <i>Concerns foreign interference laws have fuelled suspicion of Chinese community</i>. SBS News
+<p>Unheard (29 October 2021). <i>Season 1, Episode 3 - The Racist Pandemic</i>. Amazon Prime</p>
 <p>Troy Bramston (9 October 2021). <i>Labor’s ‘Fortress NSW a house of cards … no mood for change’</i>. The Australian
 <p>Yan Zhuang (6 October 2021). <i>A Sea of White Faces in Australia's 'Party of Multiculturalism'</i>. New York Times
 <p>Katina Curtis (18 September 2021). <i>‘Be less of a white boys’ club’: How to address Parliament’s lack of diversity</i>. Sydney Morning Herald
