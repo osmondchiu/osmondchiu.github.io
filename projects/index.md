@@ -65,6 +65,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>Paul Karp (6 August 2023). <i>Labor faces push to triple number of NT and ACT senators and give territorians a bigger say in referendums</i>. Guardian Australia
 <p>Tim Dunlop (6 July 2023). <i>Whither Australian Conservatives?</i>. The Future of Everything
 <p>ABC Illawarra (3 July 2023). <i>Illawarra Drive with Lindsay McDougall</i></p>
 <p>James Massola and Paul Sakkal (2 July 2023). <i>Multicultural quotas on the cards for Labor</i>. The Age</p>
