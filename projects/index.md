@@ -66,6 +66,7 @@ excerpt: "A list of recent publications and previous events"
 
 <h2>Media and Interviews</h2>
 <p>Gus McCubbing (30 August 2023). <i>Chinese Australians made to feel unwelcome by local media: study.</i> Australian Financial Review
+<p>Troy Bramston (15 August 2023). <i>Labor Right urges AUKUS unity while Left advocates radicalism</i>. The Australian
 <p>Paul Karp (6 August 2023). <i>Labor faces push to triple number of NT and ACT senators and give territorians a bigger say in referendums</i>. Guardian Australia
 <p>Tim Dunlop (6 July 2023). <i>Whither Australian Conservatives?</i>. The Future of Everything
 <p>ABC Illawarra (3 July 2023). <i>Illawarra Drive with Lindsay McDougall</i></p>
