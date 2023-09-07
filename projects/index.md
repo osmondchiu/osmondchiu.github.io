@@ -65,6 +65,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>ABC TV (6 September 2023) <i>WTFAQ</i>.</p>
 <p>Gus McCubbing (30 August 2023). <i>Chinese Australians made to feel unwelcome by local media: study.</i> Australian Financial Review
 <p>Troy Bramston (15 August 2023). <i>Labor Right urges AUKUS unity while Left advocates radicalism</i>. The Australian
 <p>Paul Karp (6 August 2023). <i>Labor faces push to triple number of NT and ACT senators and give territorians a bigger say in referendums</i>. Guardian Australia
@@ -190,6 +191,7 @@ excerpt: "A list of recent publications and previous events"
 <p>Rosanna Ryan and Alex McClintock (6 November 2017). <i>100 years after the Russian Revolution, what do millennials see in socialism?</i> RN
 <p>
 <h2>Previous Events</h2>
+<p>Addison Road Community Organisation (6 September 2023). <i>The Voice Referendum – Documentary Screening and Q&A</i>
 <p>New Bloom (3 February 2022). <i>Sinophobia in Australian politics</i>
 <p>Centre for Australian Progress (11 August 2022). <i>Winning Policy Advocacy Workshop</i>
 <p>ANU Gender Institute, the Global Institute for Women’s Leadership, ANU, the Centre for Asian Australian Leadership and the School of Culture, History and Languages in the College of Asia and the Pacific (15 July 2022). <i>Gender & Cultural Diversity in Politics: Australia, Asia & the Pacific</i>
