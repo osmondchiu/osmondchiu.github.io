@@ -65,7 +65,9 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
-<p>ABC TV (6 September 2023) <i>WTFAQ</i>.</p>
+<p>Full Story (3 October 2023). <i>Chinese Australians caught in a diplomatic rift - Full Story podcast.</i> Guardian Australia
+<p>Jane Lee (3 October 2023). <i>'What if there was a war?' Chinese Australians wear the scars after bitter years of hostile rhetoric</i>. Guardian Australia
+<p>ABC TV (6 September 2023). <i>WTFAQ</i>.</p>
 <p>Gus McCubbing (30 August 2023). <i>Chinese Australians made to feel unwelcome by local media: study.</i> Australian Financial Review
 <p>Troy Bramston (15 August 2023). <i>Labor Right urges AUKUS unity while Left advocates radicalism</i>. The Australian
 <p>Paul Karp (6 August 2023). <i>Labor faces push to triple number of NT and ACT senators and give territorians a bigger say in referendums</i>. Guardian Australia
