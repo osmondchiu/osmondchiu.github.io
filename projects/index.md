@@ -65,7 +65,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
-<p>Nick Dyrenfurth</p> (25 November 2023). </i>The Albanese doctrine</i>. The Saturday Paper
+<p>Nick Dyrenfurth (25 November 2023). </i>The Albanese doctrine</i>. The Saturday Paper
 <p>Full Story (3 October 2023). <i>Chinese Australians caught in a diplomatic rift - Full Story podcast.</i> Guardian Australia
 <p>Jane Lee (3 October 2023). <i>'What if there was a war?' Chinese Australians wear the scars after bitter years of hostile rhetoric</i>. Guardian Australia
 <p>ABC TV (6 September 2023). <i>WTFAQ</i>.</p>
