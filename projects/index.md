@@ -6,6 +6,7 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
+<p>The Future of Everything (28 November 2023). <i>Why a minority-Labor government is Peter Dutton's best path back to power</i>
 <p>East Asia Forum (10 March 2023). <i>Australia’s Chinese diaspora faces a representation deficit</i>
 <p>The Interpreter (12 January 2023). <i>Our public holidays should reflect Australia’s multicultural make-up.</i> Lowy Institute
 <p>Jacobin Magazine (20 September 2022). <i>The New South Wales Labor Party Is Wildly Corrupt. It Needs Democratic Reform.</i>
@@ -66,6 +67,7 @@ excerpt: "A list of recent publications and previous events"
 
 <h2>Media and Interviews</h2>
 <p>Nick Dyrenfurth (25 November 2023). <i>The Albanese doctrine</i>. The Saturday Paper
+<p>Koma Cheng and Tania Lee (22 November 2023). <i>Seeing a lack of diversity in local politics, Sam decided he could fill the gap.</i> SBS Chinese
 <p>Full Story (3 October 2023). <i>Chinese Australians caught in a diplomatic rift - Full Story podcast.</i> Guardian Australia
 <p>Jane Lee (3 October 2023). <i>'What if there was a war?' Chinese Australians wear the scars after bitter years of hostile rhetoric</i>. Guardian Australia
 <p>ABC TV (6 September 2023). <i>WTFAQ</i>.</p>
