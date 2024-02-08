@@ -66,6 +66,8 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>Grace Johnson (8 February 2024). <i>Sydney council slashes Mandarin program days before Lunar New Year</i>. City Hub Sydney
+<p>Koma Cheng and Kate Chang (8 February 2024). <i>农历新年是否应定为澳洲公共假期？大多受访华人不赞成：会很乱</i>. SBS Chinese
 <p>ABC Melbourne (13 December 2023). <i>Melbourne Drive with Ali Moore</i>.
 <p>Nick Dyrenfurth (25 November 2023). <i>The Albanese doctrine</i>. The Saturday Paper
 <p>Koma Cheng and Tania Lee (22 November 2023). <i>Seeing a lack of diversity in local politics, Sam decided he could fill the gap.</i> SBS Chinese
