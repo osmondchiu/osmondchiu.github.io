@@ -66,6 +66,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>Dan Holmes (18 March 2024). <i>NSW government procurement rules out of step with other jurisdictions.</i> The Mandarin
 <p>Judy Skatssoon (14 February 2024). <i>Local preference in procurement a potential integrity risk, ICAC says</i>. Government News
 <p>Grace Johnson (8 February 2024). <i>Sydney council slashes Mandarin program days before Lunar New Year</i>. City Hub Sydney
 <p>Koma Cheng and Kate Chang (8 February 2024). <i>农历新年是否应定为澳洲公共假期？大多受访华人不赞成：会很乱</i>. SBS Chinese
