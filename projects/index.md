@@ -6,7 +6,7 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
-<p>The Interpreter (22 May 2024). <i>A working definition of Sinophobia wouod improve the China debate</i>. The Lowy Institute
+<p>The Interpreter (22 May 2024). <i>A working definition of Sinophobia would improve the China debate</i>. The Lowy Institute
 <p>The Policymaker (21 May 2024). <i>NSW could be a laboratory of democracy on diverse representation</i>. James Martin Institute
 <p>The Future of Everything (28 November 2023). <i>Why a minority-Labor government is Peter Dutton's best path back to power</i>
 <p>East Asia Forum (10 March 2023). <i>Australia’s Chinese diaspora faces a representation deficit</i>
