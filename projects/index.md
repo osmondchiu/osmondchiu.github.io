@@ -33,7 +33,7 @@ excerpt: "A list of recent publications and previous events"
 <p>Jacobin Magazine (28 July 2020). <i>Locking Out the Left: The Emergence of National Factions in Australian Labor</i>
 <p>Canberra Times (27 July 2020). <i>One of the biggest open secrets in Australian public policy</i>
 <p>Osmond Chiu and Peter Chuang (July 2020). <i>COVID-19 Coronavirus Racism Incident Report: Reporting Racism against Asians in Australia Arising Due to the COVID-19 Coronavirus Pandemic</i>. Asian Australian Alliance
-<p>Pearls & Irritations (25 June 2020). <i>Confronting anti-Asian racism shows Australia’s commitment to democratic values</i>
+<p>Pearls and Irritations (25 June 2020). <i>Confronting anti-Asian racism shows Australia’s commitment to democratic values</i>
 <p>The China Story (15 April 2020). <i>COVID-19 racism echoes historical anti-Chinese sentiment</i>
 <p>South China Morning Post (2 March 2020). <i>Australia’s watershed political moment: welcoming Asian-Australians to the table</i>
 <p>China Matters (January-February 2020). <i>What should Australia do about its politics being too white?</i>
@@ -68,6 +68,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>Wanning Sun (15 June 2024). <i>Labor appreciates Chinese-Australians' contribution, but whose job is jt to stop Sinophobia?</i> Pearls and Irritations
 <p>Dan Holmes (18 March 2024). <i>NSW government procurement rules out of step with other jurisdictions.</i> The Mandarin
 <p>Judy Skatssoon (14 February 2024). <i>Local preference in procurement a potential integrity risk, ICAC says</i>. Government News
 <p>Grace Johnson (8 February 2024). <i>Sydney council slashes Mandarin program days before Lunar New Year</i>. City Hub Sydney
