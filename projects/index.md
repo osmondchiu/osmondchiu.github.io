@@ -68,6 +68,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>Su-Lin Tan (7 July 2024). <i>Australia’s ‘Chinaman’ place names spark racism debate, calls for change.</i> South China Morning Post
 <p>Olivia Yuan and Ranky Law (25 June 2024). <i>Over 250 Australian spots use this 'derogatory' name, sparking calls for renaming.</i> SBS Chinese
 <p>Wanning Sun (15 June 2024). <i>Labor appreciates Chinese-Australians' contribution, but whose job is jt to stop Sinophobia?</i> Pearls and Irritations
 <p>Dan Holmes (18 March 2024). <i>NSW government procurement rules out of step with other jurisdictions.</i> The Mandarin
