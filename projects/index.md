@@ -68,6 +68,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>Kate Ashton (26 September 2024). <i>Suburban candidate campaign sign targeted with racist vandalism ahead of Victorian council elections. </i> ABC News
 <p>Anna Usher (11 July 2024). <i>Calls for Chinamans Beach in Mosman to be renamed after “racist” claims.</i> Mosman Collective
 <p>Su-Lin Tan (7 July 2024). <i>Australia’s ‘Chinaman’ place names spark racism debate, calls for change.</i> South China Morning Post
 <p>Olivia Yuan and Ranky Law (25 June 2024). <i>Over 250 Australian spots use this 'derogatory' name, sparking calls for renaming.</i> SBS Chinese
