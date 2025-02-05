@@ -68,6 +68,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>ABC Sydney (5 February 2025). <i>NSW Afternoons with James Valentine</i></p>
 <p>ABC (5 February 2025). <i>Australia 'decades behind' in its debate over whether to change hundreds of place names containing 'racist slur'</i></p>
 <p>Kate Ashton (26 September 2024). <i>Suburban candidate campaign sign targeted with racist vandalism ahead of Victorian council elections. </i> ABC News
 <p>Anna Usher (11 July 2024). <i>Calls for Chinamans Beach in Mosman to be renamed after “racist” claims.</i> Mosman Collective
