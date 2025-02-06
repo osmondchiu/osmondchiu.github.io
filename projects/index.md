@@ -69,7 +69,7 @@ excerpt: "A list of recent publications and previous events"
 
 <h2>Media and Interviews</h2>
 <p>ABC Sydney (5 February 2025). <i>NSW Afternoons with James Valentine</i></p>
-<p>ABC (5 February 2025). <i>Australia 'decades behind' in its debate over whether to change hundreds of place names containing 'racist slur'</i></p>
+<p>Bethanie Alderson (5 February 2025). <i>Australia 'decades behind' in its debate over whether to change hundreds of place names containing 'racist slur'</i>. ABC News</p>
 <p>Kate Ashton (26 September 2024). <i>Suburban candidate campaign sign targeted with racist vandalism ahead of Victorian council elections. </i> ABC News
 <p>Anna Usher (11 July 2024). <i>Calls for Chinamans Beach in Mosman to be renamed after “racist” claims.</i> Mosman Collective
 <p>Su-Lin Tan (7 July 2024). <i>Australia’s ‘Chinaman’ place names spark racism debate, calls for change.</i> South China Morning Post
