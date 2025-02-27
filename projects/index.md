@@ -210,6 +210,7 @@ excerpt: "A list of recent publications and previous events"
 <p>Rosanna Ryan and Alex McClintock (6 November 2017). <i>100 years after the Russian Revolution, what do millennials see in socialism?</i> RN
 <p>
 <h2>Previous Events</h2>
+<p>Australia-China Relations Institute, University of Technology Sydney (27 February 2025). <i>Australian-Chinese voters' concerns and priorities</i>
 <p>Addison Road Community Organisation (6 September 2023). <i>The Voice Referendum – Documentary Screening and Q&A</i>
 <p>New Bloom (3 February 2022). <i>Sinophobia in Australian politics</i>
 <p>Centre for Australian Progress (11 August 2022). <i>Winning Policy Advocacy Workshop</i>
