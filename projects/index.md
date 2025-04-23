@@ -68,6 +68,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>Sophie Mak (14 April 2025). <i>Australian opposition's pivot to China tested as May poll nears</i>. Nikkei Asia
 <p>Jonathan Pearlman (13 April 2025). <i>Parties bank on Asian-Australian candidates at May election Down Under</i>. The Straits Times
 <p>ABC Sydney (5 February 2025). <i>NSW Afternoons with James Valentine</i></p>
 <p>Bethanie Alderson (5 February 2025). <i>Australia 'decades behind' in its debate over whether to change hundreds of place names containing 'racist slur'</i>. ABC News</p>
