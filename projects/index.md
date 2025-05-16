@@ -68,7 +68,8 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
-<p>Gus McCubbing (2 May 2025) <i>Labor deploys Wong in increasingly divisive fight for Chinese vote</i>. Australian Financial Review
+<p>Krishani Dhanji (17 May 2025). <i>A big shift’: Australia has elected its most diverse parliament. What impact will it have?</i>. Guardian Australia
+<p>Gus McCubbing (2 May 2025). <i>Labor deploys Wong in increasingly divisive fight for Chinese vote</i>. Australian Financial Review
 <p>Kelly Ng (2 May 2025). <i>Why Australia's opposition is vying for votes on Chinese social media</i>. BBC News
 <p>Nic Fildes (25 April 2025). <i>Donald Trump’s pressure on China casts shadow over Australia election</i>. Financial Times
 <p>Sophie Mak (14 April 2025). <i>Australian opposition's pivot to China tested as May poll nears</i>. Nikkei Asia
