@@ -70,6 +70,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<p>Wanning Sun (2 July 2025). <i>The Liberals are ditching Dutton’s migrant rhetoric. They’ll need to do more to win over multicultural Australia</i>. Crikey
 <p>Jonathan Pearlman (25 May 2025). <i>Number of Asian-Australian MPs to rise in Canberra as Parliament make-up changes</i>. The Straits Times
 <p>Krishani Dhanji (17 May 2025). <i>A big shift’: Australia has elected its most diverse parliament. What impact will it have?</i>. Guardian Australia
 <p>Gus McCubbing (2 May 2025). <i>Labor deploys Wong in increasingly divisive fight for Chinese vote</i>. Australian Financial Review
