@@ -70,6 +70,7 @@ excerpt: "A list of recent publications and previous events"
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
 
 <h2>Media and Interviews</h2>
+<i>Olivia Yuan and Shiyue Liu (22 July 2025). <i>华裔议员数量破纪录 但澳洲政坛“白人化”真的改善了吗？</i>. SBS Chinese
 <p>Wanning Sun (2 July 2025). <i>The Liberals are ditching Dutton’s migrant rhetoric. They’ll need to do more to win over multicultural Australia</i>. Crikey
 <p>Jonathan Pearlman (25 May 2025). <i>Number of Asian-Australian MPs to rise in Canberra as Parliament make-up changes</i>. The Straits Times
 <p>Krishani Dhanji (17 May 2025). <i>A big shift’: Australia has elected its most diverse parliament. What impact will it have?</i>. Guardian Australia
@@ -81,7 +82,7 @@ excerpt: "A list of recent publications and previous events"
 <p>ABC Sydney (5 February 2025). <i>NSW Afternoons with James Valentine</i></p>
 <p>Bethanie Alderson (5 February 2025). <i>Australia 'decades behind' in its debate over whether to change hundreds of place names containing 'racist slur'</i>. ABC News</p>
 <p>Kate Ashton (26 September 2024). <i>Suburban candidate campaign sign targeted with racist vandalism ahead of Victorian council elections. </i> ABC News
-    <p>Wanning Sun (30 July 2024). <i>Can multiculturalism survive and thrive in the age of securitisation?</i> Crikey
+<p>Wanning Sun (30 July 2024). <i>Can multiculturalism survive and thrive in the age of securitisation?</i> Crikey
 <p>Anna Usher (11 July 2024). <i>Calls for Chinamans Beach in Mosman to be renamed after “racist” claims.</i> Mosman Collective
 <p>Su-Lin Tan (7 July 2024). <i>Australia’s ‘Chinaman’ place names spark racism debate, calls for change.</i> South China Morning Post
 <p>Olivia Yuan and Ranky Law (25 June 2024). <i>Over 250 Australian spots use this 'derogatory' name, sparking calls for renaming.</i> SBS Chinese
