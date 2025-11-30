@@ -6,6 +6,7 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
+<p>Canberra Times (1 December 2025). <i>Australians are craving better work-life balance. Here's a quick and simple solution.</i>
 <p>Journal of Industrial Relations (11 September 2025). <i>AI in the Australian Public Service: what federal public servants really think about it</i>, co-authored with Katie Higgins
 <p>The Interpreter (13 June 2025). <i>The upside of the world’s downgrade in foreign aid.</i> Lowy Institute, co-authored with Danae Bosler
 <p>Peril Magazine (21 May 2025). <i>After Fowler: A Turning Point for Asian Australians in Politics?</i></p>
