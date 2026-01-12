@@ -6,6 +6,7 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
+<p>Renewal: a Journal of Social Democracy (January 2026). <i>The Unexpected Albolance: Australian Labor's historic landslide victory.</i> Volume 34, Issue 1 & 2
 <p>Per Capita (8 December 2025). <i>Australia’s Public Sector Is Far Smaller Than Debates Suggest.</i>
 <p>Canberra Times (1 December 2025). <i>Australians are craving better work-life balance. Here's a quick and simple solution.</i>
 <p>Journal of Industrial Relations (11 September 2025). <i>AI in the Australian Public Service: what federal public servants really think about it</i>, co-authored with Katie Higgins
