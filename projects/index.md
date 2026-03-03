@@ -6,6 +6,7 @@ excerpt: "A list of recent publications and previous events"
 
 
 <h2>Publications</h2>
+<p>Per Capita (2 March 2026). <i>New Zealand shows austerity and interest rate hikes won't cure Australia's sticky inflation.</i>
 <p>Renewal: a Journal of Social Democracy (January 2026). <i>The Unexpected Albolanche: Australian Labor's historic landslide victory.</i> Volume 33, Issue 3 & 4
 <p>Per Capita (8 December 2025). <i>Australia’s Public Sector Is Far Smaller Than Debates Suggest.</i>
 <p>Canberra Times (1 December 2025). <i>Australians are craving better work-life balance. Here's a quick and simple solution.</i>
