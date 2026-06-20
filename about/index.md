@@ -4,9 +4,6 @@ title: About me
 tags: [about, Jekyll, theme, JBlog]
 date: 2016-03-21
 ---
-
-<h1>About</h1>
-
 <p>
 Osmond Chiu is a public policy professional focused on rebuilding public sector 
 capacity and strengthening democratic institutions.
