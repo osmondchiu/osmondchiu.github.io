@@ -1,110 +1,89 @@
 ---
 layout: page
 title: Media and commentary
-excerpt: "A list of recent publications and previous events"
+excerpt: "My commentary and media engagement"
 ---
-My work contributes to public debate on public sector reform, workforce policy, 
-social democracy, and multicultural representation.
-<p>
-This includes opinion pieces, policy commentary, and media engagement across 
-national and international outlets.
-</p>
+## Commentary and Public Engagement
 
-<h2>Featured Commentary</h2>
+My work contributes to public debate on public sector reform, workforce policy, social democracy, and multicultural representation.
 
-<p>
-<b><a href="https://www.smh.com.au/national/i-was-born-in-australia-why-do-i-need-to-renounce-the-chinese-communist-party-20201014-p5655j.html">
-I was born in Australia. Why do I need to renounce the Chinese Communist Party?</a></b><br>
-<i>Sydney Morning Herald (2020)</i><br>
-Reflects on the experience of being asked to “condemn” the Chinese Communist Party  at a parliamentary inquiry, arguing that such loyalty tests are harmful to democratic  discourse and social cohesion.
-</p>
+I write opinion pieces and policy commentary, and regularly engage with media across Australian and international outlets.
 
-<p>
-<b><a href="https://percapita.org.au/australias-public-sector-is-far-smaller-than-debates-suggest/">
-Australia’s Public Sector Is Far Smaller Than Debates Suggest</a></b><br>
-<i>Per Capita (2025)</i><br>
-Challenges prevailing narratives about public sector size and highlights the  implications for workforce capability and service delivery.
-</p>
+---
 
-<p>
-<b><a href="https://www.canberratimes.com.au/story/9122887/australias-work-life-balance-crisis-and-a-simple-solution/">
-Australians Are Craving Better Work-Life Balance</a></b><br>
-<i>Canberra Times (2025)</i><br>
-Outlines additional public holidays as a practical policy solution to improve work-life balance.
-</p>
+## Featured Commentary
 
-<p>
-<b><a href="https://www.lowyinstitute.org/the-interpreter/working-definition-sinophobia-would-improve-china-debate">
-A Working Definition of Sinophobia Would Improve the China Debate</a></b><br>
-<i>Lowy Institute (2024)</i><br>
-Proposes clearer conceptual frameworks to strengthen public discourse and policy debate. 
-</p>
+### I was born in Australia. Why do I need to renounce the Chinese Communist Party?  
+*Sydney Morning Herald (2020)*  
+Reflects on being asked to “condemn” the Chinese Communist Party at a parliamentary inquiry, arguing that such loyalty tests undermine democratic discourse and social cohesion.
 
-<h2>Selected Media</h2>
+### Australia’s Public Sector Is Far Smaller Than Debates Suggest  
+*Per Capita (2025)*  
+Challenges prevailing narratives about the size of the public sector and highlights implications for workforce capability and service delivery.
 
-<h3>Opinion and Analysis</h3>
-<ul>
-  <li><i>I was born in Australia. Why do I need to renounce the Chinese Communist Party?</i> — Sydney Morning Herald (2020)</li>
-  <li><i>Australians are craving better work-life balance</i> — Canberra Times (2025)</li>
-  <li><i>A working definition of Sinophobia would improve the China debate</i> — Lowy Institute (2024)</li>
-  <li><i>Australia’s Chinese diaspora faces a representation deficit</i> — East Asia Forum (2023)</li>
-</ul>
+### Australians Are Craving Better Work–Life Balance  
+*Canberra Times (2025)*  
+Proposes additional public holidays as a practical policy response to improve work–life balance.
 
-<h3>Wider Media Presence</h3>
-<p>
-My work has appeared across a broad range of outlets, including:
-</p>
-<ul>
-  <li>Sydney Morning Herald</li>
-  <li>The Guardian</li>
-  <li>Canberra Times</li>
-  <li>Lowy Institute (The Interpreter)</li>
-  <li>East Asia Forum</li>
-  <li>Jacobin</li>
-  <li>Tribune</li>
-  <li>Peril Magazine</li>
-  <li>South China Morning Post</li>
-</ul>
-<p>
-These contributions span policy commentary and analysis across public sector reform, 
-political economy, and multicultural representation.
-</p>
+### A Working Definition of Sinophobia Would Improve the China Debate  
+*Lowy Institute (2024)*  
+Argues for clearer conceptual frameworks to strengthen public discourse on China, race, and foreign policy.
 
-<h2>Commentary Themes</h2>
+---
 
-<h3>Public Sector and Workforce Reform</h3>
-<ul>
-  <li>Size and capability of the public service</li>
-  <li>Outsourcing and privatisation</li>
-  <li>Workforce sustainability and reform</li>
-</ul>
+## Selected Media
 
-<h3>Social Democracy and Politics</h3>
-<ul>
-  <li>Electoral outcomes and political strategy</li>
-  <li>Institutional constraints on reform</li>
-  <li>Policy implications for progressive governments</li>
-</ul>
+### Opinion and Analysis
 
-<h3>Multiculturalism and Representation</h3>
-<ul>
-  <li>Representation in politics and institutions</li>
-  <li>Diaspora communities and democratic participation</li>
-  <li>Race, identity, and public discourse</li>
-</ul>
+- *I was born in Australia. Why do I need to renounce the Chinese Communist Party?* — Sydney Morning Herald (2020)  
+- *Australians are craving better work–life balance* — Canberra Times (2025)  
+- *A working definition of Sinophobia would improve the China debate* — Lowy Institute (2024)  
+- *Australia’s Chinese diaspora faces a representation deficit* — East Asia Forum (2023)  
 
-<h2>Media Engagement</h2>
-<p>
-I regularly contribute to public discussion through interviews and media engagement, 
-providing expertise on:
-</p>
-<ul>
-  <li>Public sector reform</li>
-  <li>The future of work</li>
-  <li>Multiculturalism and political representation</li>
-</ul>
+---
 
-<h2>Contact</h2>
-<p>
+### Wider Media Presence
+
+My work has appeared across a wide range of outlets, including:
+
+Sydney Morning Herald · The Guardian · Canberra Times · Lowy Institute (The Interpreter) · East Asia Forum · Jacobin · Tribune · Peril Magazine · South China Morning Post  
+
+These contributions span policy analysis, political commentary, and public debate on public sector reform, political economy, and multicultural representation.
+
+---
+
+## Commentary Themes
+
+### Public Sector and Workforce Reform
+- Size and capability of the public service  
+- Outsourcing and service delivery models  
+- Workforce sustainability and institutional reform  
+
+### Social Democracy and Politics
+- Electoral outcomes and political strategy  
+- Institutional constraints on reform  
+- Policy implications for progressive governments  
+
+### Multiculturalism and Representation
+- Representation in politics and public institutions  
+- Chinese diaspora communities and democratic participation  
+- Race, identity, and public discourse  
+
+---
+
+## Media Engagement
+
+I regularly contribute to public discussion through interviews, commentary, and analysis, providing expertise on:
+
+- Public sector reform
+- Australian politics and social democracy  
+- The future of work  
+- Multiculturalism and political representation  
+
+---
+
+## Enquiries
+
+For media enquiries, commentary, or speaking engagements, please get in touch via email or LinkedIn.
 For media enquiries, commentary, or speaking engagements, please get in touch via email or LinkedIn.
 </p>
