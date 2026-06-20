@@ -4,7 +4,7 @@ title: Policy work
 excerpt: "A list of recent publications and previous events"
 
 ---
-I work on public sector and labour market policy, with a focus on strengthening public 
+<p>I work on public sector and labour market policy, with a focus on strengthening public 
 institutions, improving workforce capability, diversity, equity and inclusion, and advancing social democratic reform.
 </p>
 
@@ -16,7 +16,7 @@ My work combines policy analysis, research, and advocacy, drawing on experience 
 
 <h3>Public Sector Reform</h3>
 <ul>
-  <li>Size, structure, and capability of the public service</li>
+  <li>Size, structure, and capability of the Australian Public Service</li>
   <li>Outsourcing, privatisation, and service delivery models</li>
   <li>Governance, accountability, and institutional performance</li>
 </ul>
@@ -38,7 +38,8 @@ My work combines policy analysis, research, and advocacy, drawing on experience 
 <h3>Multiculturalism and Representation</h3>
 <ul>
   <li>Diversity in political and public institutions</li>
-  <li>Representation of CALD communities</li>
+  <li>Chinese diaspora in Australia</li>
+  <li>Representation of multicultural communities</li>
   <li>Race, identity, and public discourse</li>
 </ul>
 
@@ -82,8 +83,7 @@ My work combines policy analysis, research, and advocacy, drawing on experience 
 
 <h2>Approach</h2>
 <p>
-My work is grounded in evidence-based analysis and informed by engagement with workers, 
-institutions, and communities.
+My work is grounded in evidence-based analysis and informed by engagement with workers, institutions, and communities.
 </p>
 
 <ul>
@@ -91,12 +91,6 @@ institutions, and communities.
   <li>Policy modelling and comparative analysis</li>
   <li>Stakeholder engagement and applied research</li>
 </ul>
-
-<h2>Current Focus</h2>
-<p>
-Current areas of focus include public sector workforce capability, the future of work, 
-and the role of public institutions in delivering equitable economic outcomes.
-</p>
 
 <h2>Contact</h2>
 <p>
