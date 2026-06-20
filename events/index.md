@@ -3,50 +3,81 @@ layout: page
 title: Events
 excerpt: "Speaking and events"
 ---
+<h2>Speaking and Engagements</h2>
+
 <p>
-I regularly speak at conferences, policy forums, and community events on public sector reform, 
-workforce policy, multiculturalism, and political representation.
+I speak on public sector reform, social democracy, the future of work, and multicultural representation, with a focus on practical, evidence-based policy solutions and institutional change.
 </p>
 
 <p>
-<b>Available for speaking engagements, panels, and media commentary.</b>
+I regularly contribute to conferences, policy forums, and community events, and am available for speaking engagements, panel discussions, and media commentary.
 </p>
 
-<p>
-Topics include:
-</p>
+<h3>Topics</h3>
 <ul>
-  <li>Public sector reform, capability, and workforce sustainability</li>
+  <li>Public sector reform, institutional capability, and workforce sustainability</li>
   <li>The future of work and employment policy</li>
   <li>Multiculturalism, diversity, and political representation</li>
   <li>Australia–China relations and diaspora communities</li>
   <li>Social democracy, political strategy, and institutional reform</li>
 </ul>
 
+<hr>
+
 <h2>Selected Events</h2>
 
 <h3>Recent</h3>
 <ul>
-  <li><b>Asian Australian Studies Conference</b> (30 May 2025) — <i>After Fowler: A Turning Point for Asian Australians in Politics?</i></li>
-  <li><b>Australia–China Relations Institute, UTS</b> (27 February 2025) — <i>Australian-Chinese voters' concerns and priorities</i></li>
-  <li><b>Addison Road Community Organisation</b> (6 September 2023) — <i>The Voice Referendum – Documentary Screening and Q&amp;A</i></li>
+  <li><strong>Asian Australian Studies Conference</strong> (30 May 2025)<br>
+  <em>After Fowler: A Turning Point for Asian Australians in Politics?</em></li>
+
+  <li><strong>Australia–China Relations Institute, UTS</strong> (27 February 2025)<br>
+  <em>Australian-Chinese voters’ concerns and priorities</em></li>
+
+  <li><strong>Addison Road Community Organisation</strong> (6 September 2023)<br>
+  <em>The Voice Referendum — Documentary Screening and Q&amp;A</em></li>
 </ul>
 
-<h3>Selected Conferences, Lectures and Panels</h3>
+<h3>Conferences, Lectures and Panels</h3>
 <ul>
-  <li>UCL Institute for Innovation and Public Purpose &amp; University of Greenwich (28 June 2022) — <i>Shifting Narratives Conference</i></li>
-  <li>Australian Historical Association (28 June 2022) — <i>Historicalizing Violence against Chinese Migrants</i></li>
-  <li>ANU Gender Institute &amp; partners (15 July 2022) — <i>Gender &amp; Cultural Diversity in Politics</i></li>
-  <li>Centre for Australian Progress (2022) — <i>Policy advocacy workshops and webinars</i></li>
-  <li>NSW Labor Left (7 December 2021) — <i>Bruce Childs Lecture</i></li>
+  <li><strong>UCL Institute for Innovation and Public Purpose &amp; University of Greenwich</strong> (28 June 2022)<br>
+  <em>Shifting Narratives Conference</em></li>
+
+  <li><strong>Australian Historical Association</strong> (28 June 2022)<br>
+  <em>Historicalizing Violence Against Chinese Migrants</em></li>
+
+  <li><strong>ANU Gender Institute &amp; partners</strong> (15 July 2022)<br>
+  <em>Gender &amp; Cultural Diversity in Politics</em></li>
+
+  <li><strong>Centre for Australian Progress</strong> (2022)<br>
+  Policy advocacy workshops and webinars</li>
+
+  <li><strong>NSW Labor Left</strong> (7 December 2021)<br>
+  <em>Bruce Childs Lecture</em></li>
 </ul>
 
 <h3>Earlier Engagements</h3>
 <ul>
-  <li>Australian Communities Foundation (27 March 2020) — <i>Tackling Inequality Learning Circle</i></li>
-  <li>NSW Fabians (13 February 2020) — <i>A Green New Deal for Australia?</i></li>
-  <li>Chifley Research Centre (8 December 2019) — <i>Inclusive Patriotism</i></li>
-  <li>Australia Institute (17 October 2018) — <i>Revenue Summit Panel</i></li>
-  <li>Australian Human Rights Commission (12 June 2018) — <i>National Forum on Racial Tolerance</i></li>
+  <li><strong>Australian Communities Foundation</strong> (27 March 2020)<br>
+  <em>Tackling Inequality Learning Circle</em></li>
+
+  <li><strong>NSW Fabians</strong> (13 February 2020)<br>
+  <em>A Green New Deal for Australia?</em></li>
+
+  <li><strong>Chifley Research Centre</strong> (8 December 2019)<br>
+  <em>Inclusive Patriotism</em></li>
+
+  <li><strong>Australia Institute</strong> (17 October 2018)<br>
+  Revenue Summit panel</li>
+
+  <li><strong>Australian Human Rights Commission</strong> (12 June 2018)<br>
+  <em>National Forum on Racial Tolerance</em></li>
 </ul>
 
+<hr>
+
+<h2>Enquiries</h2>
+
+<p>
+For speaking engagements, panel invitations, or media enquiries, please get in touch via email or LinkedIn to discuss availability and topics.
+</p>
