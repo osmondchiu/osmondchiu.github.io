@@ -14,10 +14,10 @@ sitemap: false
 @import "print";
 
 /* ========================================= */
-/* === FIX 1: STACKING (NO POINTER HACKS) === */
+/* === FIX 1: STACKING / HERO LAYOUT === */
 /* ========================================= */
 
-/* Hero behind everything */
+/* Keep hero behind header/nav */
 .orta {
   position: relative;
   z-index: 1;
@@ -28,14 +28,14 @@ sitemap: false
   position: relative;
   z-index: 50;
 
-  height: auto !important;         /* CRITICAL */
+  height: auto !important;
   min-height: 70px;
-  padding-bottom: 15px;
+  padding-bottom: 40px !important; /* last resort included */
 
   overflow: visible !important;
 }
 
-/* Ensure inner containers don't clip */
+/* Ensure wrappers don't clip desktop nav */
 .ust,
 .ortala,
 .ortalaAna {
@@ -43,7 +43,7 @@ sitemap: false
   height: auto !important;
 }
 
-/* Content above hero */
+/* Content stays above hero */
 .content,
 .yazilar {
   position: relative;
@@ -51,16 +51,16 @@ sitemap: false
 }
 
 /* ========================================= */
-/* === FIX 2: RESPONSIVE NAVBAR === */
+/* === FIX 2: RESPONSIVE DESKTOP NAV === */
 /* ========================================= */
 
 ul.menuAna {
   display: flex;
   flex-wrap: wrap;
-  align-content: flex-start;     /* critical for multi-row */
-
+  align-content: flex-start;
   justify-content: flex-start;
   align-items: flex-start;
+  gap: 5px 10px;
 
   width: 100%;
   margin: 0;
@@ -68,12 +68,16 @@ ul.menuAna {
 
   list-style: none;
   overflow: visible;
+  position: relative;
+  z-index: 70;
+
+  min-height: 60px; /* helps Firefox calculate wrapped height */
 }
 
 /* Menu items */
 ul.menuAna li {
   display: flex;
-  flex: 0 0 auto;               /* prevents collapse in Firefox */
+  flex: 0 0 auto;
 }
 
 /* Links */
@@ -85,13 +89,16 @@ ul.menuAna a {
 
   white-space: nowrap;
   text-decoration: none;
+  opacity: 1 !important;
 
   position: relative;
-  z-index: 60;
+  z-index: 80;
+  pointer-events: auto;
 
   transition: color 0.3s ease, border-bottom 0.3s ease;
 }
 
+/* Hover + active state */
 ul.menuAna a:hover {
   border-bottom: 3px solid $thrid-color;
   color: $thrid-color;
@@ -103,21 +110,15 @@ ul.menuAna a:hover {
 
 /* ========================================= */
 /* === FIX 3: DESKTOP FLOAT OVERRIDES === */
-/* (THIS IS THE REAL FIREFOX/EDGE FIX) */
 /* ========================================= */
 
-/* Kill float-based layout from theme */
+/* Remove old float behaviour from theme on desktop */
 .ust,
 .ortala,
 .ortalaAna {
   float: none !important;
   display: block !important;
   width: 100%;
-}
-
-/* Force header to expand with nav */
-.ust {
-  height: auto !important;
 }
 
 /* Clear any float remnants */
@@ -128,19 +129,27 @@ ul.menuAna a:hover {
 }
 
 /* ========================================= */
-/* === ADDITIONAL SAFETY FIXES === */
+/* === FIX 4: FIREFOX-SPECIFIC HEIGHT FIX === */
 /* ========================================= */
 
-/* Prevent animations breaking height calculation */
+/* flow-root forces proper height calculation for wrapped rows */
+.ust {
+  display: flow-root !important;
+}
+
+/* Ensure wrappers don’t reintroduce clipping */
+.ortala,
+.ortalaAna {
+  display: block !important;
+}
+
+/* ========================================= */
+/* === FIX 5: DISABLE OLD ANIMATION HEIGHT BUGS === */
+/* ========================================= */
+
 .ust,
 .orta {
   animation: none !important;
-}
-
-/* Ensure nav always defines header height */
-ul.menuAna {
-  position: relative;
-  z-index: 70;
 }
 
 /* ========================================= */
@@ -152,7 +161,6 @@ ul.menuAna {
 }
 
 @media (max-width: 1000px) {
-
   .menuAc {
     position: absolute;
     right: 10px;
@@ -177,6 +185,8 @@ ul.menuAna {
   .menuMobil ul.menuAna {
     flex-direction: column;
     padding: 20px;
+    min-height: auto;
+    gap: 0;
   }
 
   .menuMobil ul.menuAna li {
