@@ -127,11 +127,11 @@ My publications focus on public sector reform, workforce policy, social democrac
 
 ### International Media Coverage
 
-BBC News, CNN, Financial Times, and Nikkei Asia — commentary and interviews on Australian politics, China relations, and multiculturalism  
+BBC News, Bloomberg, CNN, Financial Times, Nikkei Asia, New York Times, South China Morning Post, and Straits Times — commentary and interviews on Australian politics, China relations, and multiculturalism  
 
 ### Australian Media Coverage
 
-Guardian Australia, The Age, Australian Financial Review, Crikey, SBS News — regular commentary and analysis  
+Guardian Australia, Sydney Morning Herald, Australian Financial Review, Crikey, SBS News — regular commentary and analysis  
 
 ### Chinese-language Media
 
