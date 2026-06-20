@@ -40,3 +40,7 @@ sitemap: false
 }
 
 /* Prevent mobile menu layering issues */
+.menuMobil {
+  z-index: 20;
+}
+
