@@ -12,3 +12,23 @@ sitemap: false
 @import "syntax";
 @import "fontawesome";
 @import "print";
+
+/* === FIX: header/hero overlapping links === */
+
+/* Push header/hero behind */
+.usta,
+.ust,
+.orta {
+  position: relative;
+  z-index: 1;
+}
+
+/* Keep content above and clickable */
+.yazilar,
+.content,
+.ortala,
+.ortalaAna {
+  position: relative;
+  z-index: 10;
+  margin-top: 40px;   /* adjust if needed */
+}
