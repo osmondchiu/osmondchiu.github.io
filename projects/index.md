@@ -3,8 +3,7 @@ layout: page
 title: Publications
 excerpt: "A list of recent publications and previous events"
 ---
-
-<p>Osmond Chiu’s work spans academic research, policy analysis, and commentary across major Australian and international outlets.</p>
+<p>My work spans academic research, policy analysis, and commentary across major Australian and international outlets.</p>
 
 <h2>Key Focus Areas</h2>
 <ul>
