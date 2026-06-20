@@ -2,6 +2,7 @@
 layout: page
 title: Events
 excerpt: "Speaking and events"
+---
 <p>
 I regularly speak at conferences, policy forums, and community events on public sector reform, 
 workforce policy, multiculturalism, and political representation.
