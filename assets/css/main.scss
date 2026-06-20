@@ -14,10 +14,8 @@ sitemap: false
 @import "print";
 
 /* ========================================= */
-/* === FIX 1: REMOVE POINTER-EVENTS HACK === */
+/* === FIX 1: STACKING (NO POINTER HACKS) === */
 /* ========================================= */
-
-/* Instead of disabling clicks, control stacking properly */
 
 /* Hero behind everything */
 .orta {
@@ -28,11 +26,13 @@ sitemap: false
 /* Header above hero */
 .ust {
   position: relative;
-  z-index: 20;
+  z-index: 50;
 
-  height: auto;         /* CRITICAL */
+  height: auto !important;         /* CRITICAL */
   min-height: 70px;
   padding-bottom: 15px;
+
+  overflow: visible !important;
 }
 
 /* Ensure inner containers don't clip */
@@ -57,6 +57,8 @@ sitemap: false
 ul.menuAna {
   display: flex;
   flex-wrap: wrap;
+  align-content: flex-start;     /* critical for multi-row */
+
   justify-content: flex-start;
   align-items: flex-start;
 
@@ -71,6 +73,7 @@ ul.menuAna {
 /* Menu items */
 ul.menuAna li {
   display: flex;
+  flex: 0 0 auto;               /* prevents collapse in Firefox */
 }
 
 /* Links */
@@ -80,3 +83,116 @@ ul.menuAna a {
   padding: 8px 12px;
   margin-right: 5px;
 
+  white-space: nowrap;
+  text-decoration: none;
+
+  position: relative;
+  z-index: 60;
+
+  transition: color 0.3s ease, border-bottom 0.3s ease;
+}
+
+ul.menuAna a:hover {
+  border-bottom: 3px solid $thrid-color;
+  color: $thrid-color;
+}
+
+.secili {
+  border-bottom: 3px solid $thrid-color;
+}
+
+/* ========================================= */
+/* === FIX 3: DESKTOP FLOAT OVERRIDES === */
+/* (THIS IS THE REAL FIREFOX/EDGE FIX) */
+/* ========================================= */
+
+/* Kill float-based layout from theme */
+.ust,
+.ortala,
+.ortalaAna {
+  float: none !important;
+  display: block !important;
+  width: 100%;
+}
+
+/* Force header to expand with nav */
+.ust {
+  height: auto !important;
+}
+
+/* Clear any float remnants */
+.ust::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+/* ========================================= */
+/* === ADDITIONAL SAFETY FIXES === */
+/* ========================================= */
+
+/* Prevent animations breaking height calculation */
+.ust,
+.orta {
+  animation: none !important;
+}
+
+/* Ensure nav always defines header height */
+ul.menuAna {
+  position: relative;
+  z-index: 70;
+}
+
+/* ========================================= */
+/* === MOBILE NAV === */
+/* ========================================= */
+
+.menuMobil {
+  z-index: 100;
+}
+
+@media (max-width: 1000px) {
+
+  .menuAc {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    z-index: 120;
+  }
+
+  .menuMobil {
+    position: absolute;
+    top: 0;
+    right: 0;
+
+    width: 220px;
+    height: 100vh;
+
+    background-color: $main-color;
+    z-index: 110;
+
+    display: none;
+  }
+
+  .menuMobil ul.menuAna {
+    flex-direction: column;
+    padding: 20px;
+  }
+
+  .menuMobil ul.menuAna li {
+    width: 100%;
+  }
+
+  .menuMobil ul.menuAna a {
+    width: 100%;
+    padding: 10px;
+  }
+}
+
+/* ========================================= */
+/* === SMALL SPACING CLEANUP === */
+/* ========================================= */
+
+.social-links {
+  margin-top: 30px;
+}
