@@ -3,14 +3,8 @@ layout: page
 title: Media and commentary
 excerpt: "A list of recent publications and previous events"
 ---
-
-<h1>Media and Commentary</h1>
-
-<h2>Overview</h2>
-<p>
 My work contributes to public debate on public sector reform, workforce policy, 
 social democracy, and multicultural representation.
-</p>
 <p>
 This includes opinion pieces, policy commentary, and media engagement across 
 national and international outlets.
