@@ -13,7 +13,9 @@ sitemap: false
 @import "fontawesome";
 @import "print";
 
-/* === FIX: stop hero section blocking clicks === */
+/* ========================================= */
+/* === FIX 1: HERO BLOCKING CLICKS === */
+/* ========================================= */
 
 /* Disable pointer events on hero layers */
 .baslik,
@@ -30,7 +32,7 @@ sitemap: false
   z-index: 5;
 }
 
-/* Ensure any content sits above hero */
+/* Ensure content always sits above hero */
 .content,
 .yazilar,
 .ortala,
@@ -44,3 +46,118 @@ sitemap: false
   z-index: 20;
 }
 
+/* ========================================= */
+/* === FIX 2: RESPONSIVE NAVBAR (ALL LINKS) === */
+/* ========================================= */
+
+ul.menuAna {
+  display: flex;
+  flex-wrap: wrap;              /* allow wrapping */
+  justify-content: flex-start;
+  align-items: flex-start;       /* prevent vertical clipping */
+
+  width: 100%;                  /* remove fixed width */
+  margin: 0;
+  padding: 10px 20px;
+
+  list-style: none;
+  overflow: visible;            /* prevent links being cut off */
+}
+
+/* Menu items */
+ul.menuAna li {
+  display: flex;
+}
+
+/* Links */
+ul.menuAna a {
+  display: block;
+
+  padding: 8px 12px;
+  margin-right: 5px;
+
+  white-space: nowrap;
+  text-decoration: none;
+
+  transition: color 0.3s ease, border-bottom 0.3s ease;
+}
+
+/* Hover + active */
+ul.menuAna a:hover {
+  border-bottom: 3px solid $thrid-color;
+  color: $thrid-color;
+}
+
+.secili {
+  border-bottom: 3px solid $thrid-color;
+}
+
+/* ========================================= */
+/* === FIX 3: HEADER HEIGHT (CRITICAL) === */
+/* ========================================= */
+
+/* Allow header to expand for 2nd nav row */
+.ust {
+  height: auto;        /* CRITICAL FIX */
+  min-height: 70px;
+  padding-bottom: 10px;
+}
+
+/* Prevent clipping inside header containers */
+.ust,
+.ortalaAna {
+  overflow: visible;
+}
+
+/* ========================================= */
+/* === MOBILE NAV IMPROVEMENTS === */
+/* ========================================= */
+
+@media (max-width: 1000px) {
+
+  /* Hamburger */
+  .menuAc {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    z-index: 30;
+  }
+
+  /* Mobile menu panel */
+  .menuMobil {
+    position: absolute;
+    top: 0;
+    right: 0;
+
+    width: 220px;
+    height: 100vh;
+
+    background-color: $main-color;
+    z-index: 25;
+
+    display: none;
+  }
+
+  /* Stack links vertically */
+  .menuMobil ul.menuAna {
+    flex-direction: column;
+    padding: 20px;
+  }
+
+  .menuMobil ul.menuAna li {
+    width: 100%;
+  }
+
+  .menuMobil ul.menuAna a {
+    width: 100%;
+    padding: 10px;
+  }
+}
+
+/* ========================================= */
+/* === SMALL VISUAL SPACING === */
+/* ========================================= */
+
+.social-links {
+  margin-top: 30px;
+}
