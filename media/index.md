@@ -37,7 +37,7 @@ Outlines additional public holidays as a practical policy solution to improve wo
 <b><a href="https://www.lowyinstitute.org/the-interpreter/working-definition-sinophobia-would-improve-china-debate">
 A Working Definition of Sinophobia Would Improve the China Debate</a></b><br>
 <i>Lowy Institute (2024)</i><br>
-Proposes clearer conceptual frameworks to strengthen public discourse and policy debate. 【4-733b8a】
+Proposes clearer conceptual frameworks to strengthen public discourse and policy debate. 
 </p>
 
 <h2>Selected Media</h2>
