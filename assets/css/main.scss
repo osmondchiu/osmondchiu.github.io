@@ -14,54 +14,58 @@ sitemap: false
 @import "print";
 
 /* ========================================= */
-/* === FIX 1: HERO BLOCKING CLICKS === */
+/* === FIX 1: REMOVE POINTER-EVENTS HACK === */
 /* ========================================= */
 
-/* Disable pointer events on hero layers */
-.baslik,
-.orta,
-.aciklamalar {
-  pointer-events: none;
-}
+/* Instead of disabling clicks, control stacking properly */
 
-/* Re-enable clicks for navigation/menu */
-.pc,
-.menuAc {
-  pointer-events: auto;
+/* Hero behind everything */
+.orta {
   position: relative;
-  z-index: 5;
+  z-index: 1;
 }
 
-/* Ensure content always sits above hero */
-.content,
-.yazilar,
+/* Header above hero */
+.ust {
+  position: relative;
+  z-index: 20;
+
+  height: auto;         /* CRITICAL */
+  min-height: 70px;
+  padding-bottom: 15px;
+}
+
+/* Ensure inner containers don't clip */
+.ust,
 .ortala,
 .ortalaAna {
+  overflow: visible !important;
+  height: auto !important;
+}
+
+/* Content above hero */
+.content,
+.yazilar {
   position: relative;
   z-index: 10;
 }
 
-/* Prevent mobile menu layering issues */
-.menuMobil {
-  z-index: 20;
-}
-
 /* ========================================= */
-/* === FIX 2: RESPONSIVE NAVBAR (ALL LINKS) === */
+/* === FIX 2: RESPONSIVE NAVBAR === */
 /* ========================================= */
 
 ul.menuAna {
   display: flex;
-  flex-wrap: wrap;              /* allow wrapping */
+  flex-wrap: wrap;
   justify-content: flex-start;
-  align-items: flex-start;       /* prevent vertical clipping */
+  align-items: flex-start;
 
-  width: 100%;                  /* remove fixed width */
+  width: 100%;
   margin: 0;
   padding: 10px 20px;
 
   list-style: none;
-  overflow: visible;            /* prevent links being cut off */
+  overflow: visible;
 }
 
 /* Menu items */
@@ -76,88 +80,3 @@ ul.menuAna a {
   padding: 8px 12px;
   margin-right: 5px;
 
-  white-space: nowrap;
-  text-decoration: none;
-
-  transition: color 0.3s ease, border-bottom 0.3s ease;
-}
-
-/* Hover + active */
-ul.menuAna a:hover {
-  border-bottom: 3px solid $thrid-color;
-  color: $thrid-color;
-}
-
-.secili {
-  border-bottom: 3px solid $thrid-color;
-}
-
-/* ========================================= */
-/* === FIX 3: HEADER HEIGHT (CRITICAL) === */
-/* ========================================= */
-
-/* Allow header to expand for 2nd nav row */
-.ust {
-  height: auto;        /* CRITICAL FIX */
-  min-height: 70px;
-  padding-bottom: 10px;
-}
-
-/* Prevent clipping inside header containers */
-.ust,
-.ortalaAna {
-  overflow: visible;
-}
-
-/* ========================================= */
-/* === MOBILE NAV IMPROVEMENTS === */
-/* ========================================= */
-
-@media (max-width: 1000px) {
-
-  /* Hamburger */
-  .menuAc {
-    position: absolute;
-    right: 10px;
-    top: 10px;
-    z-index: 30;
-  }
-
-  /* Mobile menu panel */
-  .menuMobil {
-    position: absolute;
-    top: 0;
-    right: 0;
-
-    width: 220px;
-    height: 100vh;
-
-    background-color: $main-color;
-    z-index: 25;
-
-    display: none;
-  }
-
-  /* Stack links vertically */
-  .menuMobil ul.menuAna {
-    flex-direction: column;
-    padding: 20px;
-  }
-
-  .menuMobil ul.menuAna li {
-    width: 100%;
-  }
-
-  .menuMobil ul.menuAna a {
-    width: 100%;
-    padding: 10px;
-  }
-}
-
-/* ========================================= */
-/* === SMALL VISUAL SPACING === */
-/* ========================================= */
-
-.social-links {
-  margin-top: 30px;
-}
