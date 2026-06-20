@@ -95,5 +95,5 @@ My work is grounded in evidence-based analysis and informed by engagement with w
 <h2>Contact</h2>
 <p>
 For policy collaboration, research engagement, or briefing requests, please get in touch 
-via the Contact page.
+via email or LinkedIn.
 </p>
