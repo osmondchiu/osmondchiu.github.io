@@ -13,7 +13,7 @@ national and international outlets.
 <h2>Featured Commentary</h2>
 
 <p>
-<b>https://www.smh.com.au/national/i-was-born-in-australia-why-do-i-need-to-renounce-the-chinese-communist-party-20201014-p5655j.html
+<b><a href="https://www.smh.com.au/national/i-was-born-in-australia-why-do-i-need-to-renounce-the-chinese-communist-party-20201014-p5655j.html">
 I was born in Australia. Why do I need to renounce the Chinese Communist Party?</a></b><br>
 <i>Sydney Morning Herald (2020)</i><br>
 Reflects on the experience of being asked to “condemn” the Chinese Communist Party 
