@@ -13,3 +13,12 @@ sitemap: false
 @import "fontawesome";
 @import "print";
 
+
+* Stop hero section blocking all clicks */
+.baslik,
+.orta,
+.aciklamalar {
+  pointer-events: none;
+}
+``
+
