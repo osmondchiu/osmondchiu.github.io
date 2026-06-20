@@ -1,7 +1,7 @@
 # Site
 title:          Osmond Chiu
-bio:            'Public policy professional and advocate'
-description:    "Public policy professional and advocate"
+bio:            'Research Fellow at Per Capita thinktank'
+description:    "Focused on public services, political economy, and multiculturalism"
 picture:        'assets/img/profile.jpg'
 locale:         en_AU
 url:            https://osmondchiu.github.io
@@ -24,8 +24,6 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 email: osmond@osmondchiu.com.au
-twitter: redrabbleroz
-facebook: osmondchiualp
 linkedin: ochiu
 
 # Paginate
