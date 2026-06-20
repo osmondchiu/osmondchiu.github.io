@@ -1,3 +1,9 @@
+---
+layout: page
+title: Full List of Publications and Events
+excerpt: "My full list of publications and events"
+---
+
 <h2>Publications</h2>
 <p>Per Capita (2 March 2026). <i>New Zealand shows austerity and interest rate hikes won't cure Australia's sticky inflation.</i>
 <p>Renewal: a Journal of Social Democracy (January 2026). <i>The Unexpected Albolanche: Australian Labor's historic landslide victory.</i> Volume 33, Issue 3 & 4
