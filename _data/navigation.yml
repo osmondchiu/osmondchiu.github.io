@@ -3,8 +3,11 @@
 - title: Home
   url: /
 
-- title: Previous Work
-  url: /projects/
+- title: Media and Commentary
+  url: /media/
+
+- title: Publications
+  url: /publications/
 
 - title: About
   url: /about/
