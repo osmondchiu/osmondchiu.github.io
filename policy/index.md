@@ -4,8 +4,6 @@ title: Policy
 excerpt: "My policy work and skills"
 
 ---
-# Osmond Chiu
-
 ## Policy Work
 
 I focus on strengthening our public institutions through evidence-based policy reform.
