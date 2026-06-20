@@ -16,25 +16,21 @@ national and international outlets.
 <b><a href="https://www.smh.com.au/national/i-was-born-in-australia-why-do-i-need-to-renounce-the-chinese-communist-party-20201014-p5655j.html">
 I was born in Australia. Why do I need to renounce the Chinese Communist Party?</a></b><br>
 <i>Sydney Morning Herald (2020)</i><br>
-Reflects on the experience of being asked to “condemn” the Chinese Communist Party 
-at a parliamentary inquiry, arguing that such loyalty tests are harmful to democratic 
-discourse and social cohesion. 【1-48b974】
+Reflects on the experience of being asked to “condemn” the Chinese Communist Party  at a parliamentary inquiry, arguing that such loyalty tests are harmful to democratic  discourse and social cohesion.
 </p>
 
 <p>
 <b><a href="https://percapita.org.au/australias-public-sector-is-far-smaller-than-debates-suggest/">
 Australia’s Public Sector Is Far Smaller Than Debates Suggest</a></b><br>
 <i>Per Capita (2025)</i><br>
-Challenges prevailing narratives about public sector size and highlights the 
-implications for workforce capability and service delivery. 【2-6063f4】
+Challenges prevailing narratives about public sector size and highlights the  implications for workforce capability and service delivery.
 </p>
 
 <p>
 <b><a href="https://www.canberratimes.com.au/story/9122887/australias-work-life-balance-crisis-and-a-simple-solution/">
 Australians Are Craving Better Work-Life Balance</a></b><br>
 <i>Canberra Times (2025)</i><br>
-Outlines practical policy solutions to improve work-life balance, including 
-institutional reforms. 【3-3b05e6】
+Outlines additional public holidays as a practical policy solution to improve work-life balance.
 </p>
 
 <p>
@@ -106,33 +102,6 @@ providing expertise on:
   <li>Public sector reform</li>
   <li>The future of work</li>
   <li>Multiculturalism and political representation</li>
-</ul>
-
-<h2>Selected Events</h2>
-
-<h3>Recent</h3>
-<ul>
-  <li><b>Asian Australian Studies Conference</b> (30 May 2025) — <i>After Fowler: A Turning Point for Asian Australians in Politics?</i></li>
-  <li><b>Australia–China Relations Institute, UTS</b> (27 February 2025) — <i>Australian-Chinese voters' concerns and priorities</i></li>
-  <li><b>Addison Road Community Organisation</b> (6 September 2023) — <i>The Voice Referendum – Documentary Screening and Q&amp;A</i></li>
-</ul>
-
-<h3>Selected Conferences, Lectures and Panels</h3>
-<ul>
-  <li>UCL Institute for Innovation and Public Purpose &amp; University of Greenwich (28 June 2022) — <i>Shifting Narratives Conference</i></li>
-  <li>Australian Historical Association (28 June 2022) — <i>Historicalizing Violence against Chinese Migrants</i></li>
-  <li>ANU Gender Institute &amp; partners (15 July 2022) — <i>Gender &amp; Cultural Diversity in Politics</i></li>
-  <li>Centre for Australian Progress (2022) — <i>Policy advocacy workshops and webinars</i></li>
-  <li>NSW Labor Left (7 December 2021) — <i>Bruce Childs Lecture</i></li>
-</ul>
-
-<h3>Earlier Engagements</h3>
-<ul>
-  <li>Australian Communities Foundation (27 March 2020) — <i>Tackling Inequality Learning Circle</i></li>
-  <li>NSW Fabians (13 February 2020) — <i>A Green New Deal for Australia?</i></li>
-  <li>Chifley Research Centre (8 December 2019) — <i>Inclusive Patriotism</i></li>
-  <li>Australia Institute (17 October 2018) — <i>Revenue Summit Panel</i></li>
-  <li>Australian Human Rights Commission (12 June 2018) — <i>National Forum on Racial Tolerance</i></li>
 </ul>
 
 <h2>Contact</h2>
