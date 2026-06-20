@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Publications
-excerpt: "A list of recent publications and previous events"
+excerpt: "A list of recent and previous publications"
 ---
-<p>My work spans academic research, policy analysis, and commentary across major Australian and international outlets.</p>
+<p>My publications focus on public sector reform, workforce policy, social democracy, and multicultural representation. They span academic research, policy analysis, and commentary across major Australian and international outlets.</p>
 
 <h2>Key Focus Areas</h2>
 <ul>
@@ -67,3 +67,6 @@ excerpt: "A list of recent publications and previous events"
 
 <h3>Chinese-language Media</h3>
 <p>SBS Chinese, ABC Chinese, and regional outlets — interviews and commentary on representation, racism and diaspora politics.</p>
+
+<h3>Full List</h3>
+<p>A comprehensive list of publications, including earlier work, is available on request.</p>
