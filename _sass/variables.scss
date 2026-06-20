@@ -23,10 +23,9 @@ $main-color: $white;
 $background-color: $red;
 $thrid-color: rgba(209, 0, 71, 0.8);
 
-// Heigths
+// Heights
 $top-margin: 130px;
 $top-margin-mobile: 100px;
-
 
 $color_0: #dedecb;
 $color_1: #000;
@@ -48,8 +47,7 @@ $color_16: #fcfcfc;
 $color_17: #ccc;
 $color_18: #bbb;
 
-
-//colors
+// Additional colors
 $bodycolor           : #D24D57;
 $black           	 : #000;
 $white               : #fff;
@@ -66,25 +64,24 @@ $color_stack         : #8c8b8b;
 $color_alabaster     : #f9f9f9;
 $color_tundora       : #444;
 $color_fuscous_gray  : #555;
-$color_alabaster     : #fcfcfc;
 $color_celeste       : #ccc;
 $color_pink_swan     : #bbb;
 $comp-color 	     : #222;
 
-//button colors
-$success			 : #5cb85c;
-$warning			 : #dd8338;
-$danger				 : #C64537;
-$info		         : #308cbc;
+// Button colors
+$success             : #5cb85c;
+$warning             : #dd8338;
+$danger              : #C64537;
+$info                : #308cbc;
 
-//fonts
+// Fonts
 $font1               : Fira Sans,sans-serif;
 $font2               : Inconsolata;
 $alt-font            : serif;
 $doc-font-size       : 16;
 $doc-line-height     : 26;
 
-//media
+// Media queries
 $small               : "only screen and (max-width: 30em)";
 $medium              : "only screen and (min-width: 30.1em) and (max-width: 48em)";
 $large               : "only screen and (min-width: 48.1em) and (max-width: 62.5em)";

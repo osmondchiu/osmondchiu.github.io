@@ -33,13 +33,8 @@ linkedin: ochiu
 # paginate: 5
 # paginate_path: "blog/:num/"
 
-
-# Comments
-disqus_shortname: 
-
-
-# Gems
-gems:
+# Plugins
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
