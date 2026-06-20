@@ -13,12 +13,30 @@ sitemap: false
 @import "fontawesome";
 @import "print";
 
+/* === FIX: stop hero section blocking clicks === */
 
-* Stop hero section blocking all clicks */
+/* Disable pointer events on hero layers */
 .baslik,
 .orta,
 .aciklamalar {
   pointer-events: none;
 }
-``
 
+/* Re-enable clicks for navigation/menu */
+.pc,
+.menuAc {
+  pointer-events: auto;
+  position: relative;
+  z-index: 5;
+}
+
+/* Ensure any content sits above hero */
+.content,
+.yazilar,
+.ortala,
+.ortalaAna {
+  position: relative;
+  z-index: 10;
+}
+
+/* Prevent mobile menu layering issues */
