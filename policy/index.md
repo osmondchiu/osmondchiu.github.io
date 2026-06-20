@@ -4,18 +4,12 @@ title: Policy work
 excerpt: "A list of recent publications and previous events"
 
 ---
-
-<h1>Policy Work</h1>
-
-<h2>Overview</h2>
-<p>
 I work on public sector and labour market policy, with a focus on strengthening public 
-institutions, improving workforce capability, and advancing social democratic reform.
+institutions, improving workforce capability, diversity, equity and inclusion, and advancing social democratic reform.
 </p>
 
 <p>
-My work combines policy analysis, research, and advocacy, drawing on experience across 
-the public service, union movement, and think tank sector.
+My work combines policy analysis, research, and advocacy, drawing on experience across  the public service, union movement, and think tank sector.
 </p>
 
 <h2>Key Areas of Work</h2>
@@ -83,33 +77,7 @@ the public service, union movement, and think tank sector.
   <li>Policy writing for public, media, and institutional audiences</li>
   <li>Media engagement and public commentary</li>
   <li>Briefings for decision-makers and stakeholders</li>
-</ul>
-
-<h2>Selected Policy Contributions</h2>
-
-<ul>
-  <li>
-    <b>Public sector workforce analysis</b><br>
-    Analysis of public sector size and composition, including contributions to debates 
-    on workforce capability and service delivery.
-  </li>
-
-  <li>
-    <b>Outsourcing and service delivery reform</b><br>
-    Research and advocacy on the impacts of outsourcing and the case for rebuilding 
-    in-house public sector capability.
-  </li>
-
-  <li>
-    <b>Workforce reform and conditions</b><br>
-    Policy work on employment conditions, job security, and workforce sustainability 
-    across the public sector.
-  </li>
-
-  <li>
-    <b>Multicultural representation</b><br>
-    Analysis and advocacy on representation in political institutions and public debate.
-  </li>
+  <li>Appearances before parliamentary inquiries</li>
 </ul>
 
 <h2>Approach</h2>
