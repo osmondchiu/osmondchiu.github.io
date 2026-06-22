@@ -13,9 +13,9 @@ I write opinion pieces and policy commentary, and regularly engage with media ac
 
 ## Featured Commentary
 
-### I was born in Australia. Why do I need to renounce the Chinese Communist Party?  
-*Sydney Morning Herald (2020)*  
-Reflects on being asked to “condemn” the Chinese Communist Party at a parliamentary inquiry, arguing that such loyalty tests undermine democratic discourse and social cohesion.
+### The current debate about multiculturalism is built on a false dichotomy — one that Australia has long since left behind
+*Australian Broadcasting Corporation (2026)*
+Argues that rather than multiculturalism, social cohesion is being undermined by the decline of everyday shared spaces that normalise differences.
 
 ### Australia’s Public Sector Is Far Smaller Than Debates Suggest  
 *Per Capita (2025)*  
@@ -29,16 +29,9 @@ Proposes additional public holidays as a practical policy response to improve wo
 *Lowy Institute (2024)*  
 Argues for clearer conceptual frameworks to strengthen public discourse on China, race, and foreign policy.
 
----
-
-## Selected Media
-
-### Opinion and Analysis
-
-- *I was born in Australia. Why do I need to renounce the Chinese Communist Party?* — Sydney Morning Herald (2020)  
-- *Australians are craving better work–life balance* — Canberra Times (2025)  
-- *A working definition of Sinophobia would improve the China debate* — Lowy Institute (2024)  
-- *Australia’s Chinese diaspora faces a representation deficit* — East Asia Forum (2023)  
+### I was born in Australia. Why do I need to renounce the Chinese Communist Party?  
+*Sydney Morning Herald (2020)*  
+Reflects on being asked to “condemn” the Chinese Communist Party at a parliamentary inquiry, arguing that such loyalty tests undermine democratic discourse and social cohesion.
 
 ---
 
