@@ -74,6 +74,7 @@ excerpt: "My full list of publications and events"
 <p>New Matilda (14 March 2014). <i>Are Primaries Really The Answer To Labor's Woes?</i>
 <p>New Matilda (6 November 2013). <i>Unions NSW Are Right To Challenge O'Farrell</i>
 <p>LabourList (26 November 2010). <i>There’s no Australian evidence that AV leads to a lower turnout</i>
+<p>Online Opinion (1 September 2010). <i>Justice and fairness for asylum seekers, not just compassion</i></p>
 
 <h2>Media and Interviews</h2>
 <p>Wanning Sun (14 May 2026). ASIO is an expensive and blunt tool in combating Chinese interference. <i>Crikey</i></p>
@@ -229,6 +230,8 @@ excerpt: "My full list of publications and events"
 <p>The Tally Room (9 August 2018). <i>Podcast #5 – Voter representation choices and Gilmore</i>
 <p>RN Drive (30 April 2018). <i>Does Australian parliament need a diversity quota?</i> ABC Radio National
 <p>Rosanna Ryan and Alex McClintock (6 November 2017). <i>100 years after the Russian Revolution, what do millennials see in socialism?</i> RN
+<p>Wendy Frew and Andra Jackson (19 December 2005). <i>Messages rally troops against racism</i></p>
+  
 <p>
 <h2>Previous Events</h2>
 <p>Asian Australian Studies 2025 Conference: Solidarities (30 May 2025). <i>After Fowler: A Turning Point for Asian Australians in Politics?</i>
