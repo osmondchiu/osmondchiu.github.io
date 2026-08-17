@@ -5,6 +5,7 @@ excerpt: "My full list of publications and events"
 ---
 
 <h2>Publications</h2>
+<p>Careers in Colour (17 August 2026). <i>When Progress on Diversity Depends on Employer Goodwill, It Can Disappear.</i></p>
 <p>Challenge Magazine (July 2026). <i>Imperfect Home: A History of Progressive Patriotism.</i></p>
 <p>ABC Religion and Ethics (22 June 2026). <i>The current debate about multiculturalism is built on a false dichotomy — one that Australia has long since left behind.</i>
 <p>Per Capita (2 March 2026). <i>New Zealand shows austerity and interest rate hikes won't cure Australia's sticky inflation.</i>
