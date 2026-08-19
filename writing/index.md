@@ -235,6 +235,7 @@ excerpt: "My full list of publications and events"
   
 <p>
 <h2>Previous Events</h2>
+<p>Chinese Australian Forum & Australia-China Relations Institute, University of Technology Sydney (18 August 2026). <i>Immigration: Facts and Fiction</i>  
 <p>Asian Australian Studies 2025 Conference: Solidarities (30 May 2025). <i>After Fowler: A Turning Point for Asian Australians in Politics?</i>
 <p>Australia-China Relations Institute, University of Technology Sydney (27 February 2025). <i>Australian-Chinese voters' concerns and priorities</i>
 <p>Addison Road Community Organisation (6 September 2023). <i>The Voice Referendum – Documentary Screening and Q&A</i>
